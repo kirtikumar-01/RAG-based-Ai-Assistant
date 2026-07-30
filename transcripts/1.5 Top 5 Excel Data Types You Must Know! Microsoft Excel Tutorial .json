@@ -1,0 +1,1265 @@
+{
+    "chunks": [
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 30.0,
+            "end": 49.32,
+            "text": " Welcome back."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 49.32,
+            "end": 54.519999999999996,
+            "text": " In this video, we'll be learning about a new topic in Excel, which is data types in Excel."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 54.519999999999996,
+            "end": 58.92,
+            "text": " Now usually we know that in Excel, there are various data types like number, then we have"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 58.92,
+            "end": 63.32,
+            "text": " text, we have time and we have fractions and everything which is available in the home"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 63.32,
+            "end": 64.32000000000001,
+            "text": " tab."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 64.32000000000001,
+            "end": 67.32000000000001,
+            "text": " Usually these are the different data types which people consider."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 67.32000000000001,
+            "end": 71.72,
+            "text": " But apart from that, there are some more data types which are newly introduced in the latest"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 71.72,
+            "end": 74.08,
+            "text": " version of Office 365."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 74.08,
+            "end": 78.96000000000001,
+            "text": " So those data types are available in the data menu bar and these are the data types right"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 78.96000000000001,
+            "end": 83.0,
+            "text": " now in the by default version in the latest version of Excel."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 83.0,
+            "end": 87.36,
+            "text": " You'll be able to see the stock currencies and geography, but there are many more different"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 87.36,
+            "end": 88.52000000000001,
+            "text": " data types."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 88.52,
+            "end": 94.08,
+            "text": " Now let us try to understand what exactly this data type does for us."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 94.08,
+            "end": 98.24,
+            "text": " So let's say this is the data right now we have these are the name of all the countries"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 98.24,
+            "end": 100.03999999999999,
+            "text": " in the world you can see."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 100.03999999999999,
+            "end": 105.12,
+            "text": " So India, Indonesia, Iran, Iraq, Ireland alphabetical order they have been sorted."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 105.12,
+            "end": 107.34,
+            "text": " These are all the countries across the world."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 107.34,
+            "end": 111.08,
+            "text": " Now I'm interested to understand what is the GDP of those countries?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 111.08,
+            "end": 112.62,
+            "text": " What is the calling code?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 112.62,
+            "end": 117.8,
+            "text": " What is the who are the leaders in those countries, which is the largest city, which is the capital"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 117.84,
+            "end": 118.84,
+            "text": " city."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 118.84,
+            "end": 123.64,
+            "text": " So if I want more information about this data, in fact, if I want the flag of those countries,"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 123.64,
+            "end": 124.72,
+            "text": " I have to go to Google."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 124.72,
+            "end": 127.46,
+            "text": " I have to go to chat, GPT and get the answers."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 127.46,
+            "end": 133.57999999999998,
+            "text": " But here in Excel, there's a data type automatically we can get all the answers very, very quickly."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 133.57999999999998,
+            "end": 135.4,
+            "text": " So how do we do that?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 135.4,
+            "end": 139.32,
+            "text": " Very first thing you should have the list of name of all the countries in order to do"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 139.32,
+            "end": 140.32,
+            "text": " that."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 140.32,
+            "end": 143.96,
+            "text": " It can be countries, it can be cities, it can be location, something which gives you"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 143.96,
+            "end": 147.0,
+            "text": " information about the data, geographical data."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 147.2,
+            "end": 150.72,
+            "text": " The first thing we need to do is we have to convert this data into a table format, keep"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 150.72,
+            "end": 154.14,
+            "text": " a cursor in the data, press control T from a keyboard."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 154.14,
+            "end": 156.6,
+            "text": " Now we can select this checkbox and click on OK."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 156.6,
+            "end": 160.04,
+            "text": " So this data is now converted into table format."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 160.04,
+            "end": 163.06,
+            "text": " Now when it is in table format, I'll just remove the banded rows."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 163.06,
+            "end": 165.24,
+            "text": " If you see the table design banded rows."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 165.24,
+            "end": 169.16,
+            "text": " Now the alternate rows which are colored, I have removed that banded rows here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 169.16,
+            "end": 172.52,
+            "text": " Now moving further, how do I convert into geographic?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 173.04000000000002,
+            "end": 177.0,
+            "text": " After the data is already selected, after selecting in the data menu bar, we have data"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 177.0,
+            "end": 180.16000000000003,
+            "text": " types, we can select the option as geographic."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 180.16000000000003,
+            "end": 184.84,
+            "text": " Carefully observe all the name of the countries will automatically be converted to geographical"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 184.84,
+            "end": 185.84,
+            "text": " icons."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 185.84,
+            "end": 187.4,
+            "text": " These are the geographical icons."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 187.4,
+            "end": 191.70000000000002,
+            "text": " Now very first thing I want to understand what is the calling code in India."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 191.70000000000002,
+            "end": 194.08,
+            "text": " The calling code is plus nine one in Singapore."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 194.08,
+            "end": 195.72,
+            "text": " It is plus six five in UK."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 195.72,
+            "end": 197.24,
+            "text": " It is plus four four."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 197.24,
+            "end": 201.56,
+            "text": " If I want to find out the calling code, I can just click on this plus sign on the top"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 201.6,
+            "end": 204.9,
+            "text": " and these are list of all the inbuilt options available."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 204.9,
+            "end": 208.76,
+            "text": " Now this is connected to Internet and we can quickly pull the data."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 208.76,
+            "end": 212.48,
+            "text": " If I want the calling code, I can just click on calling code and these are calling code"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 212.48,
+            "end": 215.16,
+            "text": " for all the countries given here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 215.16,
+            "end": 218.86,
+            "text": " Very quickly we are getting the answer to find out the same answer."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 218.86,
+            "end": 223.4,
+            "text": " A person has to spend minimum 10 to 15 minutes either from Google or from charge."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 223.4,
+            "end": 224.88,
+            "text": " But we got this quickly."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 224.88,
+            "end": 229.76,
+            "text": " Similarly, if I want some other answer, let's say if I want to find out what is the GDP"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 229.76,
+            "end": 234.84,
+            "text": " of those countries, so I can click on GDP and this gives us some GDP data available"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 234.84,
+            "end": 235.84,
+            "text": " here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 235.84,
+            "end": 239.16,
+            "text": " So that's a GDP of all the countries very quickly."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 239.16,
+            "end": 242.84,
+            "text": " Now I want to find out what is the national anthem in those countries."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 242.84,
+            "end": 247.12,
+            "text": " So in India, the national anthem is Janaganamana and here if I want to find out, I can click"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 247.12,
+            "end": 250.76,
+            "text": " on this button and here national anthem."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 250.76,
+            "end": 253.39999999999998,
+            "text": " I have to scroll down till I find national anthem."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 253.39999999999998,
+            "end": 259.0,
+            "text": " So when I click here and you can see Janaganamana for India for every country, it has given"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 259.08,
+            "end": 260.08,
+            "text": " all the national anthem."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 260.08,
+            "end": 262.76,
+            "text": " So we can quickly get the answers from here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 262.76,
+            "end": 264.6,
+            "text": " Now let's see some more."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 264.6,
+            "end": 268.68,
+            "text": " Apart from this national anthem, if I click on this place, let's say what is the largest"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 268.68,
+            "end": 270.84,
+            "text": " city in those countries?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 270.84,
+            "end": 271.84,
+            "text": " So here we go."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 271.84,
+            "end": 277.8,
+            "text": " We can select the from the drawn down option somewhere we'll be getting largest city."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 277.8,
+            "end": 280.72,
+            "text": " Yes, you can see that's the largest city in those countries."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 280.72,
+            "end": 283.66,
+            "text": " It is busy, it's working and this is the answer I've got."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 283.66,
+            "end": 286.56,
+            "text": " So Mumbai is the largest city, Jakarta, Tehran and so on."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 286.56,
+            "end": 289.84,
+            "text": " These are different largest cities in different countries."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 289.84,
+            "end": 293.4,
+            "text": " Now the only thing I want to find out what is the flag of those countries?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 293.4,
+            "end": 295.6,
+            "text": " I want to find out the flag of those countries."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 295.6,
+            "end": 300.0,
+            "text": " I can click on plus sign and I'll just search for an option named as image."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 300.0,
+            "end": 304.84000000000003,
+            "text": " The moment I click on image, you can see the flag of all the countries will be available"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 304.84000000000003,
+            "end": 307.22,
+            "text": " very very quickly in this data set."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 307.22,
+            "end": 311.32,
+            "text": " And the best part is it has given in the corresponding cells directly the flags are given."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 311.32,
+            "end": 313.72,
+            "text": " Not only this, there are many many options."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 313.72,
+            "end": 317.24,
+            "text": " If we see these options, there are plenty of different options which you can pick up"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 317.24,
+            "end": 318.24,
+            "text": " from this data."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 318.24,
+            "end": 321.84000000000003,
+            "text": " For example, we have the electric power consumption in those countries."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 321.84000000000003,
+            "end": 324.16,
+            "text": " So we can find out what is the capital major city."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 324.16,
+            "end": 328.22,
+            "text": " Let's say if I click on capital major city and I've got all the answers very quickly."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 328.22,
+            "end": 333.48,
+            "text": " So this is what you call the newest data type available in Microsoft Excel geography."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 333.48,
+            "end": 335.92,
+            "text": " And if you select city, you can find out who is the mayor."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 335.92,
+            "end": 337.62,
+            "text": " And there's one more interesting thing."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 337.62,
+            "end": 339.88000000000005,
+            "text": " If I click here, who are the leaders in those countries?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 339.88000000000005,
+            "end": 343.56,
+            "text": " Okay, right now when we are recording, Srinath Narendra Modi is the prime minister here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 343.56,
+            "end": 347.88,
+            "text": " So if I just search at the bottom and if I click on leaders, and if you see these are"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 347.88,
+            "end": 351.04,
+            "text": " the leaders we have president we have prime minister."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 351.04,
+            "end": 354.44,
+            "text": " And if I just increase the size, you may be able to understand."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 354.44,
+            "end": 358.76,
+            "text": " So you see all the leaders in those countries are given here, different leaders in different"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 358.76,
+            "end": 360.18,
+            "text": " countries would be given here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 360.18,
+            "end": 361.68,
+            "text": " That's very simple and easy."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 361.68,
+            "end": 363.32,
+            "text": " Now moving to the next part."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 363.32,
+            "end": 364.96,
+            "text": " So this was one example."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 364.96,
+            "end": 368.72,
+            "text": " Now the second example, people who walk in the stock exchange, people who work with different"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 368.72,
+            "end": 372.28,
+            "text": " countries, they want to find out what is the currency pair."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 372.28,
+            "end": 373.28,
+            "text": " Okay."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 374.0,
+            "end": 379.11999999999995,
+            "text": " The dollar price based on the dollar price, the gold and stock exchange, all these prices"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 379.11999999999995,
+            "end": 380.11999999999995,
+            "text": " changes."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 380.11999999999995,
+            "end": 385.47999999999996,
+            "text": " So if I want to find out what is USD to INR current rate going on USD is the dollar for"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 385.47999999999996,
+            "end": 386.76,
+            "text": " the United States here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 386.76,
+            "end": 389.17999999999995,
+            "text": " INR stands for Indian national rupees here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 389.17999999999995,
+            "end": 392.82,
+            "text": " Same way INR to USD, euros to USD and so on."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 392.82,
+            "end": 398.0,
+            "text": " So same method, I can keep my cursor in the data, press control T from my keyboard, control"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 398.0,
+            "end": 401.03999999999996,
+            "text": " T is shortcut for creating a table."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 401.03999999999996,
+            "end": 402.85999999999996,
+            "text": " Now I can just click on okay."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 402.94,
+            "end": 404.74,
+            "text": " Data is converted into table."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 404.74,
+            "end": 410.02000000000004,
+            "text": " Now we can go to the data tab or data menu bar from this drop down."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 410.02000000000004,
+            "end": 412.18,
+            "text": " If you see, we have the option as currencies."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 412.18,
+            "end": 417.06,
+            "text": " The moment we click on currencies, all the data, if you see it has converted into currency"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 417.06,
+            "end": 418.36,
+            "text": " icon over here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 418.36,
+            "end": 420.02000000000004,
+            "text": " Now let's find out the answers."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 420.02000000000004,
+            "end": 424.98,
+            "text": " If I click on this plus sign, we want to find out the 52 week high."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 424.98,
+            "end": 430.62,
+            "text": " So when I click here, 52 week high, the 52 week means for the entire year USD has touched"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 430.62,
+            "end": 432.94,
+            "text": " for 84.16 years."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 432.94,
+            "end": 437.66,
+            "text": " So it is a conversion rate which is given here and USD to euro it is 0.96."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 437.66,
+            "end": 441.42,
+            "text": " Again if I click on plus sign 52 week low, what is the lowest?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 441.42,
+            "end": 443.82,
+            "text": " It was 82.35."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 443.82,
+            "end": 448.82,
+            "text": " So USD to INR, this is the data and these are all the options available one by one."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 448.82,
+            "end": 454.38,
+            "text": " So if I say let's find out the price, so price is 83.93 as of today."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 454.38,
+            "end": 458.1,
+            "text": " Again we can click on plus sign and we can find out instrument type."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 458.1,
+            "end": 460.74,
+            "text": " It says currency pair that's an instrument type."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 460.74,
+            "end": 464.58000000000004,
+            "text": " Now we can also search some other options when I click on plus sign."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 464.58000000000004,
+            "end": 469.34000000000003,
+            "text": " Let's say we can find out the ticker symbol."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 469.34000000000003,
+            "end": 472.06,
+            "text": " So these are the ticker symbols available for USD."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 472.06,
+            "end": 474.98,
+            "text": " Usually the standards which they follow, that's a ticker symbol."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 474.98,
+            "end": 479.90000000000003,
+            "text": " And lastly, if I want to find out the change in the percentage in the whole year, what"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 479.90000000000003,
+            "end": 481.0,
+            "text": " is the percentage change?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 481.0,
+            "end": 482.54,
+            "text": " We can quickly get the answers."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 482.54,
+            "end": 486.66,
+            "text": " Here it is showing us 0% but we might get some other answer as well."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 486.66,
+            "end": 490.86,
+            "text": " And last thing, if I want to find out last trade time, so the last trade time which is"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 490.86,
+            "end": 494.46000000000004,
+            "text": " 45,533.01, some numbers are given there."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 494.46000000000004,
+            "end": 498.70000000000005,
+            "text": " So people who want to share market, stock market, currency exchange, they might understand"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 498.70000000000005,
+            "end": 501.18,
+            "text": " this data much better."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 501.18,
+            "end": 506.5,
+            "text": " Moving further, now this is again for all the people who deal with the, you know, broking,"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 506.5,
+            "end": 510.54,
+            "text": " they deal with the stock market, exchange markets and all, share market especially."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 510.54,
+            "end": 514.82,
+            "text": " So these are the name of all the companies and I want to find out what is the stock market"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 514.82,
+            "end": 516.14,
+            "text": " rate for them right now."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 516.62,
+            "end": 522.3,
+            "text": " So I can keep my cursor in the data, press Ctrl T from my keyboard and click on OK."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 522.3,
+            "end": 524.18,
+            "text": " Now this data is converted into table."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 524.18,
+            "end": 528.86,
+            "text": " Now we can go to data tab, data menu bar and click on stocks."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 528.86,
+            "end": 533.06,
+            "text": " The moment we click on stocks, if you see, they will pick up the best names for them"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 533.06,
+            "end": 535.22,
+            "text": " available on the stock exchange."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 535.22,
+            "end": 537.76,
+            "text": " So here I just click on cross button."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 537.76,
+            "end": 543.22,
+            "text": " Now let me increase the size to have a look on this."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 543.22,
+            "end": 544.9399999999999,
+            "text": " And we can minimize the size."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 545.2600000000001,
+            "end": 549.46,
+            "text": " If you see, we just wrote as Microsoft, but it is giving us Microsoft Corporation."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 549.46,
+            "end": 550.46,
+            "text": " Then we wrote as Apple."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 550.46,
+            "end": 553.9200000000001,
+            "text": " It is giving us Apple INC, Amazon.com and so on."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 553.9200000000001,
+            "end": 557.82,
+            "text": " So these are lists of all the name of the companies where I want to bet, where I want"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 557.82,
+            "end": 559.98,
+            "text": " to see or understand some data."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 559.98,
+            "end": 564.82,
+            "text": " But now let's understand when I click on plus sign on this right hand side, I can find out"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 564.82,
+            "end": 567.22,
+            "text": " what is a 52 week high, 52 week low."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 567.22,
+            "end": 570.34,
+            "text": " Let's find out 52 week high is 468."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 570.34,
+            "end": 574.5400000000001,
+            "text": " Now you cannot trust 100% on this data, but it is good to understand for demo purpose."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 575.02,
+            "end": 579.5,
+            "text": " If you want to do some practical, if you want to do some case study for data analysis, you"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 579.5,
+            "end": 580.6999999999999,
+            "text": " need a lot of data."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 580.6999999999999,
+            "end": 583.78,
+            "text": " This is something which you can get."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 583.78,
+            "end": 586.78,
+            "text": " Again we can click on plus sign and 52 week low is there."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 586.78,
+            "end": 588.26,
+            "text": " We can find out what is the change."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 588.26,
+            "end": 590.56,
+            "text": " So the change is 3.24."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 590.56,
+            "end": 592.8199999999999,
+            "text": " If it is in the bracket, it means it's a negative."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 592.8199999999999,
+            "end": 595.42,
+            "text": " If it is in the bracket, again, we can click on plus sign."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 595.42,
+            "end": 599.54,
+            "text": " And if you see, we want to find out where are the headquarters of those company."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 599.54,
+            "end": 602.3399999999999,
+            "text": " So headquarters of those companies are given here."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 602.34,
+            "end": 607.26,
+            "text": " If you see it says on Microsoft way, one Apple Parkway and these are the headquarters"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 607.26,
+            "end": 609.0600000000001,
+            "text": " of those office."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 609.0600000000001,
+            "end": 613.26,
+            "text": " Again if I click on plus sign, I want to find out how many employees are working in those"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 613.26,
+            "end": 614.46,
+            "text": " companies."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 614.46,
+            "end": 615.46,
+            "text": " So here we go."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 615.46,
+            "end": 621.74,
+            "text": " I can click on employees and it says 2,28,000 are the number of employees with Microsoft,"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 621.74,
+            "end": 625.1,
+            "text": " 1,61,000 with Apple and so on."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 625.1,
+            "end": 628.38,
+            "text": " Again let's say if I click on plus sign, we have some other options."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 628.38,
+            "end": 630.26,
+            "text": " Let's say official name."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 630.26,
+            "end": 631.26,
+            "text": " One is the option."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 631.38,
+            "end": 632.9399999999999,
+            "text": " I can click on open."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 632.9399999999999,
+            "end": 635.02,
+            "text": " Again if I click, there are plenty of options."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 635.02,
+            "end": 640.54,
+            "text": " Let's say industry option, which is for software and services, computers and phones and so"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 640.54,
+            "end": 641.54,
+            "text": " on."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 641.54,
+            "end": 645.06,
+            "text": " And lastly, let's find out one which is year incorporated."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 645.06,
+            "end": 648.02,
+            "text": " So in Microsoft came into 1993."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 648.02,
+            "end": 651.8,
+            "text": " It says according to this data, it may be wrong, but you have to just quickly understand"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 651.8,
+            "end": 656.74,
+            "text": " how beautifully how fast we are able to get the data."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 656.74,
+            "end": 659.46,
+            "text": " Now this is what you call different and new data types."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 659.46,
+            "end": 662.6600000000001,
+            "text": " This one not there earlier in the previous version of Excel."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 662.6600000000001,
+            "end": 667.4200000000001,
+            "text": " Now apart from this, there are some more data types available which are not visible here"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 667.4200000000001,
+            "end": 669.58,
+            "text": " depending upon the version which you pick up."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 669.58,
+            "end": 672.88,
+            "text": " Now there's a data type where you write all the problems what you have."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 672.88,
+            "end": 676.14,
+            "text": " If you have cough, if you are sneezing, if you have this and that, it will tell you what"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 676.14,
+            "end": 678.6600000000001,
+            "text": " kind of problem or what kind of disease you have."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 678.6600000000001,
+            "end": 679.7,
+            "text": " That is one option."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 679.7,
+            "end": 680.7,
+            "text": " One data type."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 680.7,
+            "end": 685.62,
+            "text": " The second one is you put the name of all the colleges outside India, inside India,"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 685.62,
+            "end": 688.82,
+            "text": " and this will tell you what is the percentage placement in that colleges."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 688.82,
+            "end": 690.32,
+            "text": " What is the fees in that college?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 690.32,
+            "end": 694.6600000000001,
+            "text": " How many professors are there in which year it was established?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 694.6600000000001,
+            "end": 696.58,
+            "text": " What is the placement ratio over there?"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 696.58,
+            "end": 698.2600000000001,
+            "text": " So all the details would be given."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 698.2600000000001,
+            "end": 699.86,
+            "text": " So here we get the options."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 699.86,
+            "end": 705.1400000000001,
+            "text": " Right now it's only three, but there are plenty around 15 options are there in that data type."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 705.1400000000001,
+            "end": 706.1400000000001,
+            "text": " So that's it."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 706.1400000000001,
+            "end": 710.38,
+            "text": " These are the new topic in Microsoft Excel, and I hope you have understood the data types"
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 710.38,
+            "end": 711.38,
+            "text": " in Microsoft Excel."
+        },
+        {
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "start": 711.38,
+            "end": 712.46,
+            "text": " That's all for this video."
+        }
+    ],
+    "text": " Welcome back. In this video, we'll be learning about a new topic in Excel, which is data types in Excel. Now usually we know that in Excel, there are various data types like number, then we have text, we have time and we have fractions and everything which is available in the home tab. Usually these are the different data types which people consider. But apart from that, there are some more data types which are newly introduced in the latest version of Office 365. So those data types are available in the data menu bar and these are the data types right now in the by default version in the latest version of Excel. You'll be able to see the stock currencies and geography, but there are many more different data types. Now let us try to understand what exactly this data type does for us. So let's say this is the data right now we have these are the name of all the countries in the world you can see. So India, Indonesia, Iran, Iraq, Ireland alphabetical order they have been sorted. These are all the countries across the world. Now I'm interested to understand what is the GDP of those countries? What is the calling code? What is the who are the leaders in those countries, which is the largest city, which is the capital city. So if I want more information about this data, in fact, if I want the flag of those countries, I have to go to Google. I have to go to chat, GPT and get the answers. But here in Excel, there's a data type automatically we can get all the answers very, very quickly. So how do we do that? Very first thing you should have the list of name of all the countries in order to do that. It can be countries, it can be cities, it can be location, something which gives you information about the data, geographical data. The first thing we need to do is we have to convert this data into a table format, keep a cursor in the data, press control T from a keyboard. Now we can select this checkbox and click on OK. So this data is now converted into table format. Now when it is in table format, I'll just remove the banded rows. If you see the table design banded rows. Now the alternate rows which are colored, I have removed that banded rows here. Now moving further, how do I convert into geographic? After the data is already selected, after selecting in the data menu bar, we have data types, we can select the option as geographic. Carefully observe all the name of the countries will automatically be converted to geographical icons. These are the geographical icons. Now very first thing I want to understand what is the calling code in India. The calling code is plus nine one in Singapore. It is plus six five in UK. It is plus four four. If I want to find out the calling code, I can just click on this plus sign on the top and these are list of all the inbuilt options available. Now this is connected to Internet and we can quickly pull the data. If I want the calling code, I can just click on calling code and these are calling code for all the countries given here. Very quickly we are getting the answer to find out the same answer. A person has to spend minimum 10 to 15 minutes either from Google or from charge. But we got this quickly. Similarly, if I want some other answer, let's say if I want to find out what is the GDP of those countries, so I can click on GDP and this gives us some GDP data available here. So that's a GDP of all the countries very quickly. Now I want to find out what is the national anthem in those countries. So in India, the national anthem is Janaganamana and here if I want to find out, I can click on this button and here national anthem. I have to scroll down till I find national anthem. So when I click here and you can see Janaganamana for India for every country, it has given all the national anthem. So we can quickly get the answers from here. Now let's see some more. Apart from this national anthem, if I click on this place, let's say what is the largest city in those countries? So here we go. We can select the from the drawn down option somewhere we'll be getting largest city. Yes, you can see that's the largest city in those countries. It is busy, it's working and this is the answer I've got. So Mumbai is the largest city, Jakarta, Tehran and so on. These are different largest cities in different countries. Now the only thing I want to find out what is the flag of those countries? I want to find out the flag of those countries. I can click on plus sign and I'll just search for an option named as image. The moment I click on image, you can see the flag of all the countries will be available very very quickly in this data set. And the best part is it has given in the corresponding cells directly the flags are given. Not only this, there are many many options. If we see these options, there are plenty of different options which you can pick up from this data. For example, we have the electric power consumption in those countries. So we can find out what is the capital major city. Let's say if I click on capital major city and I've got all the answers very quickly. So this is what you call the newest data type available in Microsoft Excel geography. And if you select city, you can find out who is the mayor. And there's one more interesting thing. If I click here, who are the leaders in those countries? Okay, right now when we are recording, Srinath Narendra Modi is the prime minister here. So if I just search at the bottom and if I click on leaders, and if you see these are the leaders we have president we have prime minister. And if I just increase the size, you may be able to understand. So you see all the leaders in those countries are given here, different leaders in different countries would be given here. That's very simple and easy. Now moving to the next part. So this was one example. Now the second example, people who walk in the stock exchange, people who work with different countries, they want to find out what is the currency pair. Okay. The dollar price based on the dollar price, the gold and stock exchange, all these prices changes. So if I want to find out what is USD to INR current rate going on USD is the dollar for the United States here. INR stands for Indian national rupees here. Same way INR to USD, euros to USD and so on. So same method, I can keep my cursor in the data, press control T from my keyboard, control T is shortcut for creating a table. Now I can just click on okay. Data is converted into table. Now we can go to the data tab or data menu bar from this drop down. If you see, we have the option as currencies. The moment we click on currencies, all the data, if you see it has converted into currency icon over here. Now let's find out the answers. If I click on this plus sign, we want to find out the 52 week high. So when I click here, 52 week high, the 52 week means for the entire year USD has touched for 84.16 years. So it is a conversion rate which is given here and USD to euro it is 0.96. Again if I click on plus sign 52 week low, what is the lowest? It was 82.35. So USD to INR, this is the data and these are all the options available one by one. So if I say let's find out the price, so price is 83.93 as of today. Again we can click on plus sign and we can find out instrument type. It says currency pair that's an instrument type. Now we can also search some other options when I click on plus sign. Let's say we can find out the ticker symbol. So these are the ticker symbols available for USD. Usually the standards which they follow, that's a ticker symbol. And lastly, if I want to find out the change in the percentage in the whole year, what is the percentage change? We can quickly get the answers. Here it is showing us 0% but we might get some other answer as well. And last thing, if I want to find out last trade time, so the last trade time which is 45,533.01, some numbers are given there. So people who want to share market, stock market, currency exchange, they might understand this data much better. Moving further, now this is again for all the people who deal with the, you know, broking, they deal with the stock market, exchange markets and all, share market especially. So these are the name of all the companies and I want to find out what is the stock market rate for them right now. So I can keep my cursor in the data, press Ctrl T from my keyboard and click on OK. Now this data is converted into table. Now we can go to data tab, data menu bar and click on stocks. The moment we click on stocks, if you see, they will pick up the best names for them available on the stock exchange. So here I just click on cross button. Now let me increase the size to have a look on this. And we can minimize the size. If you see, we just wrote as Microsoft, but it is giving us Microsoft Corporation. Then we wrote as Apple. It is giving us Apple INC, Amazon.com and so on. So these are lists of all the name of the companies where I want to bet, where I want to see or understand some data. But now let's understand when I click on plus sign on this right hand side, I can find out what is a 52 week high, 52 week low. Let's find out 52 week high is 468. Now you cannot trust 100% on this data, but it is good to understand for demo purpose. If you want to do some practical, if you want to do some case study for data analysis, you need a lot of data. This is something which you can get. Again we can click on plus sign and 52 week low is there. We can find out what is the change. So the change is 3.24. If it is in the bracket, it means it's a negative. If it is in the bracket, again, we can click on plus sign. And if you see, we want to find out where are the headquarters of those company. So headquarters of those companies are given here. If you see it says on Microsoft way, one Apple Parkway and these are the headquarters of those office. Again if I click on plus sign, I want to find out how many employees are working in those companies. So here we go. I can click on employees and it says 2,28,000 are the number of employees with Microsoft, 1,61,000 with Apple and so on. Again let's say if I click on plus sign, we have some other options. Let's say official name. One is the option. I can click on open. Again if I click, there are plenty of options. Let's say industry option, which is for software and services, computers and phones and so on. And lastly, let's find out one which is year incorporated. So in Microsoft came into 1993. It says according to this data, it may be wrong, but you have to just quickly understand how beautifully how fast we are able to get the data. Now this is what you call different and new data types. This one not there earlier in the previous version of Excel. Now apart from this, there are some more data types available which are not visible here depending upon the version which you pick up. Now there's a data type where you write all the problems what you have. If you have cough, if you are sneezing, if you have this and that, it will tell you what kind of problem or what kind of disease you have. That is one option. One data type. The second one is you put the name of all the colleges outside India, inside India, and this will tell you what is the percentage placement in that colleges. What is the fees in that college? How many professors are there in which year it was established? What is the placement ratio over there? So all the details would be given. So here we get the options. Right now it's only three, but there are plenty around 15 options are there in that data type. So that's it. These are the new topic in Microsoft Excel, and I hope you have understood the data types in Microsoft Excel. That's all for this video."
+}
