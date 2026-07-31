@@ -37,7 +37,7 @@ prompt = f'''Here is the top video transcript chunks that are most similar to th
 {df_similar[['name','start','end', 'text']].to_json(orient='records')}
 --------------------------------------------------------------------------------------
 "{query}"
-The given question was asked in the context of the above video transcript chunks. Please answer the question based on the information provided in the video transcript chunks and aswer like a human. If the answer is not present in the video transcript chunks, please respond with "I know only what is present in the video transcript chunks. I do not have any additional information." Please provide a detailed answer to the question.
+The given question was asked in the context of the above video transcript chunks. Please answer the question based on the information provided in the video transcript chunks. If the answer is not present in the video transcript chunks, please respond with "I know only what is present in the video transcript chunks. I do not have any additional information." Please provide a detailed answer to the question.
 '''
 with open('prompt.txt', 'w') as f:
     f.write(prompt)

@@ -1,6 +1,6 @@
 import whisper , json,os
-#our videos and mp3 are in english so we dont need to translate
-#my laptop will fuck up if i use better model so i will use medium model
+#our videos and mp3 are in english so we dont need to translate, other languages must be translated to english using model of whisper. So we will use the medium model which is faster and more accurate than the small model. The large model is more accurate but it is slower and requires more resources.
+
 model = whisper.load_model("medium")
 audios = os.listdir('audios')   
 for audio in audios:
