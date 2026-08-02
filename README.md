@@ -1,4 +1,4 @@
-# This is a RAG based AI assistant to help you with your studies
+# This is a free RAG based AI assistant based on open source resources to help you with your studies
 ## Step1 
 Save your videos in the videos folder.
 Then Run the videos_to_mp3.py file to convert videos to mp3...
@@ -7,6 +7,7 @@ All mp3s will be stored in audios folder
 
 ## Step2
 Run the transcripting_mp3.py file to store your preprocessed json chunks of your mp3s.
+Then Run joining_chunks.py file
 Chunks of each mp3 will be stored in transcripts folder
 
 ## Step3
