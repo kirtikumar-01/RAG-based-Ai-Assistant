@@ -1,8 +1,8 @@
 # This is a free RAG based AI assistant based on open source resources to help you with your studies
 ## Step1 
-Save your videos in the videos folder.
+Save your videos in the "videos" folder.
 Then Run the videos_to_mp3.py file to convert videos to mp3...
-All mp3s will be stored in audios folder
+All mp3s will be stored in "audios" folder
 (you can tweak it according to the names,language and type of the video files)
 
 ## Step2
