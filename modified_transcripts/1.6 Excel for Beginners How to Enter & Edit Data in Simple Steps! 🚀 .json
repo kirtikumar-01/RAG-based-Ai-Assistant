@@ -1,0 +1,179 @@
+{
+    "chunks": [
+        {
+            "chunk_id": 1,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " Welcome back.  Now in this video, we'll be learning about how do we enter and edit a data in Microsoft  Excel basics of very much of Excel right now.  Now Excel is a very vast application.  It can store numbers, it can store date, it can store text, it can store the error messages,",
+            "start": 0.0,
+            "end": 21.04
+        },
+        {
+            "chunk_id": 2,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " everything.  All those data can be stored here.  It is used in various companies in various departments, HR department, banking department,  or you can say sales department, many departments, different domains, healthcare, banking, finance,  marketing, and so on, different domains.",
+            "start": 21.04,
+            "end": 35.96
+        },
+        {
+            "chunk_id": 3,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " Now let us understand first thing, how do we enter data in Excel and how do we modify  that thing?  For example, I have this cell which is C1 right now.  And if I want to enter some text over here, I can just start typing directly.  Okay, here I can type as let's say techno edge learning services.",
+            "start": 35.96,
+            "end": 58.120000000000005
+        },
+        {
+            "chunk_id": 4,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " When you type it, you can see the same text in the formula bar.  And here when the cursor is blinking, if you observe here, the cursor is blinking over  here.  So the ribbon on the top is grayed out, grayed out in sense you cannot do maximum options.  You cannot change anything over there.",
+            "start": 58.64,
+            "end": 76.03999999999999
+        },
+        {
+            "chunk_id": 5,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " So when the cursor is blinking, that means you are in the editing mode, the cell is in  the editing mode.  When you press enter, then the entire tab options will be enabled.  Okay, here we go back.  I can use my arrow keys from the bottom.",
+            "start": 76.03999999999999,
+            "end": 89.47999999999999
+        },
+        {
+            "chunk_id": 6,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " There are four arrow keys left, right, up and down.  I can use the arrow keys to move between the cells.  Now in this particular cell, if I want to modify the method is simple method is if I  have a mouse, I can double click on the cell.  And I can write here as private limited, I can keep writing here.",
+            "start": 89.47999999999999,
+            "end": 108.86
+        },
+        {
+            "chunk_id": 7,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " And I can press enter.  If I do not have a mouse, I can press a shortcut key from my keyboard F2, F2 or function F2  depending upon laptop.  Some people can use F2, some people can use function F2.  The shortcut is function keyboard function button and F2.",
+            "start": 108.86,
+            "end": 125.89999999999999
+        },
+        {
+            "chunk_id": 8,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " When I press function F2, I can write here let's say like this enter.  So the name of the company where I work, which is my company, TechnoH learning services,  India private limited here.  So that's a text over here.  So whenever I type your text, it's visible.",
+            "start": 125.89999999999999,
+            "end": 140.68
+        },
+        {
+            "chunk_id": 9,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " Now let's see some more data.  If I enter a text, let's say ABC, and if I press enter, the text alignment would be  on the left hand side.  If I enter number 123, press enter, the number would be on the right hand side, observe text  will be on the left number would be on the right.",
+            "start": 140.68,
+            "end": 160.08
+        },
+        {
+            "chunk_id": 10,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " If I type a date, let's say one slash one slash 2024, one slash one slash 2024 enter.  Also if you see the date will be on the right hand side.  So the alignment is right hand side.  If I write here, let's say equal to one, or let's say, let's say equal to one divided  by zero, obviously one divided by zero is infinity here it will give an error.",
+            "start": 160.08,
+            "end": 183.0
+        },
+        {
+            "chunk_id": 11,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " So when I press enter, it becomes as cannot divide by zero.  So this is an error, error alignment would be center.  If you see the center alignment, if I type as let's say, equal to false, okay.  And if I press tab key enter.  So whenever I type here as true and false, this will come in the middle alignment if",
+            "start": 183.0,
+            "end": 204.56
+        },
+        {
+            "chunk_id": 12,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " you see false and true.  So whenever you see an excel file, you should be able to understand whether it is a text,  whether it's a number or it's an alignment or it's something let's say true and false,  which are Boolean values.  True and false are known as Boolean values, B double O L E N Boolean values here.",
+            "start": 204.56,
+            "end": 221.86
+        },
+        {
+            "chunk_id": 13,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " So these are the alignments over here.  I can go back to any place and I can edit, okay.  Or if I want to write a function, okay, so I can write as equal to sum, press tab key  1, 5.  So I want to add those two numbers, this is a function, we'll see in detail how to write",
+            "start": 221.86,
+            "end": 238.12
+        },
+        {
+            "chunk_id": 14,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " the functions equal to sum in bracket 1, 5.  When I press enter, I get the answer 6.  So I can enter a function, I can enter a formula, I can enter the text and numbers.  So Excel is a application which can store huge amount of data.  Now coming back to the point here, to edit a cell, the shortcut is F2 or function F2",
+            "start": 238.12,
+            "end": 259.12
+        },
+        {
+            "chunk_id": 15,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " or I can just double click on this place.  Also if I think I want to modify the text, I can just click in the formula bar like this  and I can put a space, I can write the EF, enter.  So various methods are there to modify the data over here, right.  Now moving further, carefully observe, if I type here Monday and if I press enter, when",
+            "start": 259.12,
+            "end": 281.56
+        },
+        {
+            "chunk_id": 16,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " I press enter, the cursor comes into the next cell, you see when I press enter, the  cursor comes in the next cell.  But here when I type let's say Monday, okay, if I type here Monday, if I want the cursor  in the same cell, I don't want to come down, I can press control enter from my keyboard,  control enter will keep the cursor in the same cell, okay and in the non editing mode.",
+            "start": 281.56,
+            "end": 305.48
+        },
+        {
+            "chunk_id": 17,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " I repeat, when I type Monday, the cursor is blinking, when it is blinking, it's in the  editing mode and the ribbon on the top is grayed out, you cannot do any options.  When you press control enter, the cursor comes in the same cell and in non editing mode.  So what is the benefit?  I have to if I want to drag down, I don't have to go down and then come up, I can directly",
+            "start": 305.48,
+            "end": 326.64
+        },
+        {
+            "chunk_id": 18,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " use this option.  The next option is suppose if I want to add a new line in the same cell, for example,  if I type here my name, okay, alt enter, alt enter will create a new line in the same  cell, my last name, alt enter, my city name, alt enter, my country name.  So Pawan, Lalvani, Pune, India, so four lines are created in the same cell.",
+            "start": 326.64,
+            "end": 354.6
+        },
+        {
+            "chunk_id": 19,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " Now when I press enter, you can see these are separate data, okay, separate data, new  line in the same cell.  So what is the shortcut for that alt enter?  Remember, alt enter is the shortcut.  Let's try one more.",
+            "start": 354.6,
+            "end": 366.47999999999996
+        },
+        {
+            "chunk_id": 20,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " If I write here as a alt enter B, alt enter C, alt enter D. And finally, when I press  enter, this has created new lines in the same cell.  So now I can select this data, maybe I can press delete key from my keyboard.  So delete key will remove all the data from the screen.  Now on the right hand side, if you see, we have 145 as a zoom size, I can minimize, I",
+            "start": 366.47999999999996,
+            "end": 391.68
+        },
+        {
+            "chunk_id": 21,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " can click on this minimize button, I can click on this maximize button.  So the size of this text will increase or size of the sheet would be increased here.  And the last one would be the name box.  Suppose I am currently in the cell number A2.  Now if I want to go to B6, I want to go to the cell number B6.",
+            "start": 391.68,
+            "end": 408.76
+        },
+        {
+            "chunk_id": 22,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " How do I go?  One method is I can click here and I can jump to B6.  Second method is in the name box.  This is the name box, I can click on the name box type as B6.  When I type B6, when I press enter, my cursor will be navigated to B6.",
+            "start": 408.76,
+            "end": 424.34
+        },
+        {
+            "chunk_id": 23,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " Okay, I repeat here.  Suppose I'm in B1.  If I want to go to some cell number, which is B12.  So from B1 to B12, if I want to go, I can C12, I can keep my cursor type here C12.  I can type C12 enter, my cursor will come to the C12 cell number.",
+            "start": 424.34,
+            "end": 442.26
+        },
+        {
+            "chunk_id": 24,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " So why it is easy?  Why it is important because sometimes the data is huge.  There are hundreds of columns and there are thousands of rows.  Okay, if I want to go to some specific cell, this name box can help me to reach to that  particular location very, very easy.",
+            "start": 442.26,
+            "end": 456.84
+        },
+        {
+            "chunk_id": 25,
+            "name": "1.6 Excel for Beginners How to Enter & Edit Data in Simple Steps! 🚀 ",
+            "text": " So this is the method of entering editing data in Microsoft Excel.  I hope you have understood and that's all for this video.  Thank you.",
+            "start": 456.84,
+            "end": 502.86
+        }
+    ]
+}

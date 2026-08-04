@@ -1,0 +1,298 @@
+{
+    "chunks": [
+        {
+            "chunk_id": 1,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Welcome back.  In this video, we'll be learning about a new topic in Excel, which is data types in Excel.  Now usually we know that in Excel, there are various data types like number, then we have  text, we have time and we have fractions and everything which is available in the home  tab.",
+            "start": 30.0,
+            "end": 64.32000000000001
+        },
+        {
+            "chunk_id": 2,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Usually these are the different data types which people consider.  But apart from that, there are some more data types which are newly introduced in the latest  version of Office 365.  So those data types are available in the data menu bar and these are the data types right  now in the by default version in the latest version of Excel.",
+            "start": 64.32000000000001,
+            "end": 83.0
+        },
+        {
+            "chunk_id": 3,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " You'll be able to see the stock currencies and geography, but there are many more different  data types.  Now let us try to understand what exactly this data type does for us.  So let's say this is the data right now we have these are the name of all the countries  in the world you can see.",
+            "start": 83.0,
+            "end": 100.03999999999999
+        },
+        {
+            "chunk_id": 4,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So India, Indonesia, Iran, Iraq, Ireland alphabetical order they have been sorted.  These are all the countries across the world.  Now I'm interested to understand what is the GDP of those countries?  What is the calling code?  What is the who are the leaders in those countries, which is the largest city, which is the capital",
+            "start": 100.03999999999999,
+            "end": 117.8
+        },
+        {
+            "chunk_id": 5,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " city.  So if I want more information about this data, in fact, if I want the flag of those countries,  I have to go to Google.  I have to go to chat, GPT and get the answers.  But here in Excel, there's a data type automatically we can get all the answers very, very quickly.",
+            "start": 117.84,
+            "end": 133.57999999999998
+        },
+        {
+            "chunk_id": 6,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So how do we do that?  Very first thing you should have the list of name of all the countries in order to do  that.  It can be countries, it can be cities, it can be location, something which gives you  information about the data, geographical data.",
+            "start": 133.57999999999998,
+            "end": 147.0
+        },
+        {
+            "chunk_id": 7,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " The first thing we need to do is we have to convert this data into a table format, keep  a cursor in the data, press control T from a keyboard.  Now we can select this checkbox and click on OK.  So this data is now converted into table format.  Now when it is in table format, I'll just remove the banded rows.",
+            "start": 147.2,
+            "end": 163.06
+        },
+        {
+            "chunk_id": 8,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " If you see the table design banded rows.  Now the alternate rows which are colored, I have removed that banded rows here.  Now moving further, how do I convert into geographic?  After the data is already selected, after selecting in the data menu bar, we have data  types, we can select the option as geographic.",
+            "start": 163.06,
+            "end": 180.16000000000003
+        },
+        {
+            "chunk_id": 9,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Carefully observe all the name of the countries will automatically be converted to geographical  icons.  These are the geographical icons.  Now very first thing I want to understand what is the calling code in India.  The calling code is plus nine one in Singapore.",
+            "start": 180.16000000000003,
+            "end": 194.08
+        },
+        {
+            "chunk_id": 10,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " It is plus six five in UK.  It is plus four four.  If I want to find out the calling code, I can just click on this plus sign on the top  and these are list of all the inbuilt options available.  Now this is connected to Internet and we can quickly pull the data.",
+            "start": 194.08,
+            "end": 208.76
+        },
+        {
+            "chunk_id": 11,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " If I want the calling code, I can just click on calling code and these are calling code  for all the countries given here.  Very quickly we are getting the answer to find out the same answer.  A person has to spend minimum 10 to 15 minutes either from Google or from charge.  But we got this quickly.",
+            "start": 208.76,
+            "end": 224.88
+        },
+        {
+            "chunk_id": 12,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Similarly, if I want some other answer, let's say if I want to find out what is the GDP  of those countries, so I can click on GDP and this gives us some GDP data available  here.  So that's a GDP of all the countries very quickly.  Now I want to find out what is the national anthem in those countries.",
+            "start": 224.88,
+            "end": 242.84
+        },
+        {
+            "chunk_id": 13,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So in India, the national anthem is Janaganamana and here if I want to find out, I can click  on this button and here national anthem.  I have to scroll down till I find national anthem.  So when I click here and you can see Janaganamana for India for every country, it has given  all the national anthem.",
+            "start": 242.84,
+            "end": 260.08
+        },
+        {
+            "chunk_id": 14,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So we can quickly get the answers from here.  Now let's see some more.  Apart from this national anthem, if I click on this place, let's say what is the largest  city in those countries?  So here we go.",
+            "start": 260.08,
+            "end": 271.84
+        },
+        {
+            "chunk_id": 15,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " We can select the from the drawn down option somewhere we'll be getting largest city.  Yes, you can see that's the largest city in those countries.  It is busy, it's working and this is the answer I've got.  So Mumbai is the largest city, Jakarta, Tehran and so on.  These are different largest cities in different countries.",
+            "start": 271.84,
+            "end": 289.84
+        },
+        {
+            "chunk_id": 16,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Now the only thing I want to find out what is the flag of those countries?  I want to find out the flag of those countries.  I can click on plus sign and I'll just search for an option named as image.  The moment I click on image, you can see the flag of all the countries will be available  very very quickly in this data set.",
+            "start": 289.84,
+            "end": 307.22
+        },
+        {
+            "chunk_id": 17,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " And the best part is it has given in the corresponding cells directly the flags are given.  Not only this, there are many many options.  If we see these options, there are plenty of different options which you can pick up  from this data.  For example, we have the electric power consumption in those countries.",
+            "start": 307.22,
+            "end": 321.84000000000003
+        },
+        {
+            "chunk_id": 18,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So we can find out what is the capital major city.  Let's say if I click on capital major city and I've got all the answers very quickly.  So this is what you call the newest data type available in Microsoft Excel geography.  And if you select city, you can find out who is the mayor.  And there's one more interesting thing.",
+            "start": 321.84000000000003,
+            "end": 337.62
+        },
+        {
+            "chunk_id": 19,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " If I click here, who are the leaders in those countries?  Okay, right now when we are recording, Srinath Narendra Modi is the prime minister here.  So if I just search at the bottom and if I click on leaders, and if you see these are  the leaders we have president we have prime minister.  And if I just increase the size, you may be able to understand.",
+            "start": 337.62,
+            "end": 354.44
+        },
+        {
+            "chunk_id": 20,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So you see all the leaders in those countries are given here, different leaders in different  countries would be given here.  That's very simple and easy.  Now moving to the next part.  So this was one example.",
+            "start": 354.44,
+            "end": 364.96
+        },
+        {
+            "chunk_id": 21,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Now the second example, people who walk in the stock exchange, people who work with different  countries, they want to find out what is the currency pair.  Okay.  The dollar price based on the dollar price, the gold and stock exchange, all these prices  changes.",
+            "start": 364.96,
+            "end": 380.11999999999995
+        },
+        {
+            "chunk_id": 22,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So if I want to find out what is USD to INR current rate going on USD is the dollar for  the United States here.  INR stands for Indian national rupees here.  Same way INR to USD, euros to USD and so on.  So same method, I can keep my cursor in the data, press control T from my keyboard, control",
+            "start": 380.11999999999995,
+            "end": 398.0
+        },
+        {
+            "chunk_id": 23,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " T is shortcut for creating a table.  Now I can just click on okay.  Data is converted into table.  Now we can go to the data tab or data menu bar from this drop down.  If you see, we have the option as currencies.",
+            "start": 398.0,
+            "end": 412.18
+        },
+        {
+            "chunk_id": 24,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " The moment we click on currencies, all the data, if you see it has converted into currency  icon over here.  Now let's find out the answers.  If I click on this plus sign, we want to find out the 52 week high.  So when I click here, 52 week high, the 52 week means for the entire year USD has touched",
+            "start": 412.18,
+            "end": 430.62
+        },
+        {
+            "chunk_id": 25,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " for 84.16 years.  So it is a conversion rate which is given here and USD to euro it is 0.96.  Again if I click on plus sign 52 week low, what is the lowest?  It was 82.35.  So USD to INR, this is the data and these are all the options available one by one.",
+            "start": 430.62,
+            "end": 448.82
+        },
+        {
+            "chunk_id": 26,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So if I say let's find out the price, so price is 83.93 as of today.  Again we can click on plus sign and we can find out instrument type.  It says currency pair that's an instrument type.  Now we can also search some other options when I click on plus sign.  Let's say we can find out the ticker symbol.",
+            "start": 448.82,
+            "end": 469.34000000000003
+        },
+        {
+            "chunk_id": 27,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So these are the ticker symbols available for USD.  Usually the standards which they follow, that's a ticker symbol.  And lastly, if I want to find out the change in the percentage in the whole year, what  is the percentage change?  We can quickly get the answers.",
+            "start": 469.34000000000003,
+            "end": 482.54
+        },
+        {
+            "chunk_id": 28,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Here it is showing us 0% but we might get some other answer as well.  And last thing, if I want to find out last trade time, so the last trade time which is  45,533.01, some numbers are given there.  So people who want to share market, stock market, currency exchange, they might understand  this data much better.",
+            "start": 482.54,
+            "end": 501.18
+        },
+        {
+            "chunk_id": 29,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Moving further, now this is again for all the people who deal with the, you know, broking,  they deal with the stock market, exchange markets and all, share market especially.  So these are the name of all the companies and I want to find out what is the stock market  rate for them right now.  So I can keep my cursor in the data, press Ctrl T from my keyboard and click on OK.",
+            "start": 501.18,
+            "end": 522.3
+        },
+        {
+            "chunk_id": 30,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Now this data is converted into table.  Now we can go to data tab, data menu bar and click on stocks.  The moment we click on stocks, if you see, they will pick up the best names for them  available on the stock exchange.  So here I just click on cross button.",
+            "start": 522.3,
+            "end": 537.76
+        },
+        {
+            "chunk_id": 31,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Now let me increase the size to have a look on this.  And we can minimize the size.  If you see, we just wrote as Microsoft, but it is giving us Microsoft Corporation.  Then we wrote as Apple.  It is giving us Apple INC, Amazon.com and so on.",
+            "start": 537.76,
+            "end": 553.9200000000001
+        },
+        {
+            "chunk_id": 32,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So these are lists of all the name of the companies where I want to bet, where I want  to see or understand some data.  But now let's understand when I click on plus sign on this right hand side, I can find out  what is a 52 week high, 52 week low.  Let's find out 52 week high is 468.",
+            "start": 553.9200000000001,
+            "end": 570.34
+        },
+        {
+            "chunk_id": 33,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Now you cannot trust 100% on this data, but it is good to understand for demo purpose.  If you want to do some practical, if you want to do some case study for data analysis, you  need a lot of data.  This is something which you can get.  Again we can click on plus sign and 52 week low is there.",
+            "start": 570.34,
+            "end": 586.78
+        },
+        {
+            "chunk_id": 34,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " We can find out what is the change.  So the change is 3.24.  If it is in the bracket, it means it's a negative.  If it is in the bracket, again, we can click on plus sign.  And if you see, we want to find out where are the headquarters of those company.",
+            "start": 586.78,
+            "end": 599.54
+        },
+        {
+            "chunk_id": 35,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So headquarters of those companies are given here.  If you see it says on Microsoft way, one Apple Parkway and these are the headquarters  of those office.  Again if I click on plus sign, I want to find out how many employees are working in those  companies.",
+            "start": 599.54,
+            "end": 614.46
+        },
+        {
+            "chunk_id": 36,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " So here we go.  I can click on employees and it says 2,28,000 are the number of employees with Microsoft,  1,61,000 with Apple and so on.  Again let's say if I click on plus sign, we have some other options.  Let's say official name.",
+            "start": 614.46,
+            "end": 630.26
+        },
+        {
+            "chunk_id": 37,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " One is the option.  I can click on open.  Again if I click, there are plenty of options.  Let's say industry option, which is for software and services, computers and phones and so  on.",
+            "start": 630.26,
+            "end": 641.54
+        },
+        {
+            "chunk_id": 38,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " And lastly, let's find out one which is year incorporated.  So in Microsoft came into 1993.  It says according to this data, it may be wrong, but you have to just quickly understand  how beautifully how fast we are able to get the data.  Now this is what you call different and new data types.",
+            "start": 641.54,
+            "end": 659.46
+        },
+        {
+            "chunk_id": 39,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " This one not there earlier in the previous version of Excel.  Now apart from this, there are some more data types available which are not visible here  depending upon the version which you pick up.  Now there's a data type where you write all the problems what you have.  If you have cough, if you are sneezing, if you have this and that, it will tell you what",
+            "start": 659.46,
+            "end": 676.14
+        },
+        {
+            "chunk_id": 40,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " kind of problem or what kind of disease you have.  That is one option.  One data type.  The second one is you put the name of all the colleges outside India, inside India,  and this will tell you what is the percentage placement in that colleges.",
+            "start": 676.14,
+            "end": 688.82
+        },
+        {
+            "chunk_id": 41,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " What is the fees in that college?  How many professors are there in which year it was established?  What is the placement ratio over there?  So all the details would be given.  So here we get the options.",
+            "start": 688.82,
+            "end": 699.86
+        },
+        {
+            "chunk_id": 42,
+            "name": "1.5 Top 5 Excel Data Types You Must Know! Microsoft Excel Tutorial ",
+            "text": " Right now it's only three, but there are plenty around 15 options are there in that data type.  So that's it.  These are the new topic in Microsoft Excel, and I hope you have understood the data types  in Microsoft Excel.  That's all for this video.",
+            "start": 699.86,
+            "end": 712.46
+        }
+    ]
+}

@@ -1,7 +1,9 @@
-So you're asking where saving files is taught in the context of this Excel security tutorial. Well, based on the provided transcript chunks, it seems that saving files with passwords is being discussed.
+Based on the video transcript chunks provided, it appears that the specific steps for saving an Excel file with a password are as follows:
 
-From what I can gather, the speaker mentions that "Many options or many methods are there to save a file." This suggests that the tutorial covers various ways to save files, including possibly saving them securely with passwords.
+1. Open the file menu bar and click on "Save".
+2. In the dialog box, click on "Browse" and select a location to save the file.
+3. In the "Save As" dialog box, type in a name for your file, including any relevant information such as data names (e.g. "Proven", "Pune").
+4. Click on the "Tools" button to access additional options.
+5. General tools option is highlighted in the video transcript.
 
-However, I don't see any specific mention of where exactly this information is taught in terms of a step-by-step process or a particular section of the tutorial. It's possible that this topic might be covered later on in the video, but based on what's provided here, I'm not sure if there's more context about how saving files with passwords is explicitly taught.
-
-I know only what is present in the video transcript chunks. I do not have any additional information.
+It can be inferred that after selecting the general tools option, you will have access to password protection options for your Excel file.

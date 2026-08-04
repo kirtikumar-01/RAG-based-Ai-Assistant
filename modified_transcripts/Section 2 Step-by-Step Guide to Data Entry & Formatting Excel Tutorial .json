@@ -1,0 +1,879 @@
+{
+    "chunks": [
+        {
+            "chunk_id": 1,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Welcome back.  Now in this video, we'll be learning about how do we enter and edit a data in Microsoft  Excel basics of very much of Excel right now.  Now Excel is a very vast application.  It can store numbers, it can store date, it can store text, it can store the error messages,",
+            "start": 0.0,
+            "end": 21.04
+        },
+        {
+            "chunk_id": 2,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " everything.  All those data can be stored here.  It is used in various companies in various departments, HR department, banking department,  or you can say sales department, many departments, different domains, healthcare, banking, finance,  marketing, and so on, different domains.",
+            "start": 21.04,
+            "end": 35.96
+        },
+        {
+            "chunk_id": 3,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now let us understand first thing, how do we enter data in Excel and how do we modify  that thing?  For example, I have this cell which is C1 right now.  And if I want to enter some text over here, I can just start typing directly.  Okay, here I can type as let's say techno edge learning services.",
+            "start": 35.96,
+            "end": 58.120000000000005
+        },
+        {
+            "chunk_id": 4,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " When you type it, you can see the same text in the formula bar.  And here when the cursor is blinking, if you observe here, the cursor is blinking over  here.  So the ribbon on the top is grayed out, grayed out in sense you cannot do maximum options.  You cannot change anything over there.",
+            "start": 58.64,
+            "end": 76.03999999999999
+        },
+        {
+            "chunk_id": 5,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So when the cursor is blinking, that means you are in the editing mode, the cell is in  the editing mode.  When you press enter, then the entire tab options will be enabled.  Okay, here we go back.  I can use my arrow keys from the bottom.",
+            "start": 76.03999999999999,
+            "end": 89.47999999999999
+        },
+        {
+            "chunk_id": 6,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " There are four arrow keys left, right, up and down.  I can use the arrow keys to move between the cells.  Now in this particular cell, if I want to modify the method is simple method is if I  have a mouse, I can double click on the cell.  And I can write here as private limited, I can keep writing here.",
+            "start": 89.47999999999999,
+            "end": 108.86
+        },
+        {
+            "chunk_id": 7,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " And I can press enter.  If I do not have a mouse, I can press a shortcut key from my keyboard F2, F2 or function F2  depending upon laptop.  Some people can use F2, some people can use function F2.  The shortcut is function keyboard function button and F2.",
+            "start": 108.86,
+            "end": 125.89999999999999
+        },
+        {
+            "chunk_id": 8,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " When I press function F2, I can write here let's say like this enter.  So the name of the company where I work, which is my company, TechnoH learning services,  India private limited here.  So that's a text over here.  So whenever I type your text, it's visible.",
+            "start": 125.89999999999999,
+            "end": 140.68
+        },
+        {
+            "chunk_id": 9,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now let's see some more data.  If I enter a text, let's say ABC, and if I press enter, the text alignment would be  on the left hand side.  If I enter number 123, press enter, the number would be on the right hand side, observe text  will be on the left number would be on the right.",
+            "start": 140.68,
+            "end": 160.08
+        },
+        {
+            "chunk_id": 10,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " If I type a date, let's say one slash one slash 2024, one slash one slash 2024 enter.  Also if you see the date will be on the right hand side.  So the alignment is right hand side.  If I write here, let's say equal to one, or let's say, let's say equal to one divided  by zero, obviously one divided by zero is infinity here it will give an error.",
+            "start": 160.08,
+            "end": 183.0
+        },
+        {
+            "chunk_id": 11,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So when I press enter, it becomes as cannot divide by zero.  So this is an error, error alignment would be center.  If you see the center alignment, if I type as let's say, equal to false, okay.  And if I press tab key enter.  So whenever I type here as true and false, this will come in the middle alignment if",
+            "start": 183.0,
+            "end": 204.56
+        },
+        {
+            "chunk_id": 12,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " you see false and true.  So whenever you see an excel file, you should be able to understand whether it is a text,  whether it's a number or it's an alignment or it's something let's say true and false,  which are Boolean values.  True and false are known as Boolean values, B double O L E N Boolean values here.",
+            "start": 204.56,
+            "end": 221.86
+        },
+        {
+            "chunk_id": 13,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So these are the alignments over here.  I can go back to any place and I can edit, okay.  Or if I want to write a function, okay.  So I can write as equal to some press tab key 1, 5.  So I want to add those two numbers.",
+            "start": 221.86,
+            "end": 236.08
+        },
+        {
+            "chunk_id": 14,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " This is a function.  We'll see in detail how to write the functions equal to some in bracket 1, 5.  When I press enter, I get the answer 6.  So I can enter a function, I can enter a formula, I can enter the text and numbers.  So Excel is a application which can store huge amount of data.",
+            "start": 236.08,
+            "end": 253.2
+        },
+        {
+            "chunk_id": 15,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now coming back to the point here to edit a cell, the shortcut is F2 or function F2  or I can just double click on this place.  Also if I think I want to modify the text, I can just click in the formula bar like this  and I can put a space, I can write the EF enter.  So various methods are there to modify the data over here, right.",
+            "start": 253.2,
+            "end": 274.64
+        },
+        {
+            "chunk_id": 16,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now moving further, carefully observe if I type here Monday and if I press enter, when  I press enter, the cursor comes into the next cell.  You see when I press enter, the cursor comes in the next cell.  But here when I type, let's say Monday, if I type here Monday, if I want the cursor in  the same cell, I don't want to come down.",
+            "start": 274.64,
+            "end": 296.5
+        },
+        {
+            "chunk_id": 17,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " I can press control enter from my keyboard.  Control enter will keep the cursor in the same cell and in the non editing mode.  I repeat when I type Monday, the cursor is blinking.  When it is blinking, it's in the editing mode and the ribbon on the top is grayed out.  You cannot do any options.",
+            "start": 296.5,
+            "end": 315.38
+        },
+        {
+            "chunk_id": 18,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " When you press control enter, the cursor comes in the same cell and in non editing mode.  So what is the benefit?  I have to if I want to drag down, I don't have to go down and then come up.  I can directly use this option.  The next option is suppose if I want to add a new line in the same cell, for example,",
+            "start": 315.38,
+            "end": 333.88
+        },
+        {
+            "chunk_id": 19,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " if I type here my name, ok, alt enter, alt enter will create a new line in the same cell.  My last name, alt enter, my city name, alt enter, my country name.  So Pawan, Lalvani, Pune, India.  So four lines are created in the same cell.  Now when I press enter, you can see these are separate data, ok, separate data, new",
+            "start": 333.88,
+            "end": 359.58
+        },
+        {
+            "chunk_id": 20,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " line in the same cell.  So what is the shortcut for that alt enter?  Remember alt enter is the shortcut.  Let's try one more.  If I write here as a alt enter B, alt enter C, alt enter D. And finally, when I press",
+            "start": 359.58,
+            "end": 374.14000000000004
+        },
+        {
+            "chunk_id": 21,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " enter, this has created new lines in the same cell.  So now I can select this data.  Maybe I can press delete key from my keyboard.  So delete key will remove all the data from the screen.  Now on the right hand side, if you see, we have 145 as a zoom size, I can minimize, I",
+            "start": 374.14000000000004,
+            "end": 391.70000000000005
+        },
+        {
+            "chunk_id": 22,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " can click on this minimize button, I can click on this maximize button.  So the size of this text will increase or size of the sheet would be increased here.  And the last one would be the name box.  Suppose I am currently in the cell number A2.  Now if I want to go to B6, I want to go to the cell number B6.",
+            "start": 391.70000000000005,
+            "end": 408.78
+        },
+        {
+            "chunk_id": 23,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " How do I go?  One method is I can click here and I can jump to B6.  Second method is in the name box.  This is the name box.  I can click on the name box, type as B6.",
+            "start": 408.78,
+            "end": 419.5
+        },
+        {
+            "chunk_id": 24,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " When I type B6, when I press enter, my cursor will be navigated to B6.  Okay, I repeat here.  Suppose I'm in B1.  If I want to go to some cell number which is B12.  So from B1 to B12, if I want to go, I can C12, I can keep my cursor type here C12.",
+            "start": 419.5,
+            "end": 437.62
+        },
+        {
+            "chunk_id": 25,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " I can type C12, enter, my cursor will come to the C12 cell number.  So why it is easy?  Why it is important?  Because sometimes the data is huge.  There are hundreds of columns and there are thousands of rows.",
+            "start": 437.62,
+            "end": 449.78000000000003
+        },
+        {
+            "chunk_id": 26,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Okay.  So if I want to go to some specific cell, this name box can help me to reach to that  particular location very, very easy.  So this is the method of entering editing data in Microsoft Excel.  I hope you have understood.",
+            "start": 449.78000000000003,
+            "end": 462.78
+        },
+        {
+            "chunk_id": 27,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Cut copy paste in Microsoft Excel.  Cut copy paste and clipboard.  Very important option.  This is a very, very basic for any beginner in Microsoft Excel.  Now usually the Excel is vast.",
+            "start": 462.78,
+            "end": 474.97999999999996
+        },
+        {
+            "chunk_id": 28,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Sometimes we need to duplicate the data.  We need to copy or delete or maybe paste something.  Let's see what is that cut copy paste.  Now here the Excel is blank in the first few columns.  But if I move on the right hand side, I have some data.",
+            "start": 474.97999999999996,
+            "end": 488.78000000000003
+        },
+        {
+            "chunk_id": 29,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now you can pause the video and you can see this, the data here.  I have a column named as ID 1234.  These are CDN numbers.  I have a column named as name of the YouTube channel over here, which is T series, Set  India, Z music company, Sonic music India.",
+            "start": 488.78000000000003,
+            "end": 503.90000000000003
+        },
+        {
+            "chunk_id": 30,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " I have the name of the owner who runs this particular channel and the number of subscribers  in million.  The data might be here and there.  It's OK.  Now what I need to do is if you see there are some Indian names as well.",
+            "start": 503.90000000000003,
+            "end": 515.46
+        },
+        {
+            "chunk_id": 31,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Carry Minati, Ashish Chanchalani, BB Ki Wines, Technical Guruji and so on.  Now what I want is I want to copy this data from this location, which is in the L column.  I want to copy the whole data and paste into a first column there.  How do I do that?  So many methods are there.",
+            "start": 515.46,
+            "end": 533.74
+        },
+        {
+            "chunk_id": 32,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " The easiest method would be keep your cursor in the data and press control A. Control A  is a shortcut to select the data surrounding data.  I repeat, if I keep my cursor in the data here like this, if you keep your cursor in  the data and if you press control A, the entire data gets selected here.  Now after selecting the data, control C is for copy.",
+            "start": 533.74,
+            "end": 558.62
+        },
+        {
+            "chunk_id": 33,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " When you select control C, you can see the lines over here are dotted.  It's not a continuous line.  It's a dotted line.  Control C is a shortcut for copy and then I can move my screen.  I can scroll on the first column somewhere, select this column and press control V. Control",
+            "start": 558.62,
+            "end": 576.74
+        },
+        {
+            "chunk_id": 34,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " V is for paste.  When I go there, copy control C and then control V. That's a very simple shortcut here.  Not only this, you can go to any other sheet.  I can go to the sheet and again press control V. Control V is for paste.  I can go to a new file, control N, a new file entirely.",
+            "start": 576.74,
+            "end": 596.18
+        },
+        {
+            "chunk_id": 35,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " You see sheet 1, sheet 2, a new file which is book 1 and I can press control V. So again  I can paste it here.  I can go to Word, I can go to PowerPoint, I can go to any other software and I can press  control V. It will be pasted over there.  So let me come back.",
+            "start": 596.18,
+            "end": 612.06
+        },
+        {
+            "chunk_id": 36,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " I can click on close button.  Don't save.  So when I'm sheet 1, now I will repeat the steps again.  I will delete this column.  Okay, delete this column.",
+            "start": 612.06,
+            "end": 623.24
+        },
+        {
+            "chunk_id": 37,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now how did I delete?  Let me show you.  I selected this column over here.  Okay, the entire column heading.  I went to this column heading like this and press delete key from my keyboard.",
+            "start": 623.24,
+            "end": 633.02
+        },
+        {
+            "chunk_id": 38,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now again I can go back.  So what was the method?  I kept my cursor in the data.  Suppose you don't keep the cursor in the data and if you click outside, when you click outside  control A, the whole sheet gets selected 1047 whatever 10 lakh records and number of columns,",
+            "start": 633.02,
+            "end": 651.22
+        },
+        {
+            "chunk_id": 39,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " all the data, whole sheet gets selected.  So don't do that.  You can keep your cursor in the data.  Okay, when you keep your cursor in the data and press control A, the continuous data would  be selected.",
+            "start": 651.22,
+            "end": 663.02
+        },
+        {
+            "chunk_id": 40,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " What is continuous data?  For example, if I insert a column here, okay, in this O column, if I right click on the  heading, right click on this heading over here, let me show the screen.  If I right click on this heading and if I click on insert.  So what is happening between two to this data, this data and this data, there's a column",
+            "start": 663.02,
+            "end": 683.22
+        },
+        {
+            "chunk_id": 41,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " empty column in between.  So when I keep my cursor here and if I press A, so this is a continuous data which is selected.  So there is a discontinuity, a blank column because of which this data is not selected.  So remember, if the data is in a continuous format, no blank column, no blank record,  then control A is the best option.",
+            "start": 683.22,
+            "end": 703.98
+        },
+        {
+            "chunk_id": 42,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Otherwise, in that case, the other method would be you manually select the data like  this using your mouse and then you can press control C. Okay, so you can press control  C. So control C, you have to understand the logic behind this.  Okay, now I can delete the option.  Now after copy paste, the next step is cut paste.",
+            "start": 703.98,
+            "end": 724.4399999999999
+        },
+        {
+            "chunk_id": 43,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " I don't think the location of data should be in the L column.  Okay, this data, I want to cut from here and I want to paste it there.  Okay.  So how do I cut it so I can keep my cursor control A, one is control A or you can select  manually control X, control X stands for cut.",
+            "start": 724.4399999999999,
+            "end": 742.8399999999999
+        },
+        {
+            "chunk_id": 44,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now, right now, these are dotted lines, right?  Okay.  So I will go back to the first column here.  Okay, select this option.  So from there, it would be deleted.",
+            "start": 742.8399999999999,
+            "end": 752.04
+        },
+        {
+            "chunk_id": 45,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " And when I press control V, here, it would be pasted.  Okay, so control V will paste here.  Let's go and check whether actually the data has been deleted or not.  Okay, so if you see L column, nothing is there.  So cut will, you know, delete from that data from that location permanently, and it will",
+            "start": 752.04,
+            "end": 768.88
+        },
+        {
+            "chunk_id": 46,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " paste at that location where I want.  Okay, so it's kind of shifting of data.  So we have learned about control A for select all control C for copy control X for cut control  V for paste.  These are some shortcuts.",
+            "start": 768.88,
+            "end": 781.0400000000001
+        },
+        {
+            "chunk_id": 47,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now, there is some interesting thing over here.  And let me show you that thing.  What is that thing?  Suppose I have this data.  In this particular place, if I select control C, one time, I click here control C second",
+            "start": 781.0400000000001,
+            "end": 797.8000000000001
+        },
+        {
+            "chunk_id": 48,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " time, I select here control C third time.  So control C control C control C. Now, three times of copied.  And if I want to paste here, what would be pasted?  Okay, what would be pasted?  The last copied item would be pasted when I press control V, this subscriber in million",
+            "start": 797.8000000000001,
+            "end": 816.74
+        },
+        {
+            "chunk_id": 49,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " would be pasted control V. But now what I want is, if I want to paste the first copied  item, okay, if I want to paste the first copied item, how do I do that?  Suppose three times 10 times if I copy still the last copied item is pasted.  So for doing that activity, the new topic name is clipboard.  So clipboard imagine it's like a box containing all the copied items in a temporary location.",
+            "start": 816.74,
+            "end": 845.3000000000001
+        },
+        {
+            "chunk_id": 50,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So clipboard is a temporary location.  So clipboard can save 24 copied items 24.  Okay, how do we activate this option?  Here if you see the option name is given as clipboard.  So on this place clipboard, how do we activate this option?",
+            "start": 845.3000000000001,
+            "end": 860.62
+        },
+        {
+            "chunk_id": 51,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " The small button over here, let me highlight the button.  This small button over here has to be clicked.  When we click on the small button, the clipboard window would open.  Now this is the clipboard.  Now this is a temporary box which can save the copied items.",
+            "start": 860.62,
+            "end": 875.9399999999999
+        },
+        {
+            "chunk_id": 52,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Okay, now carefully observe when I keep my cursor over here, press control C one time.  You see the data would be copied here.  This is a temporary location.  I can select this and press control C. When I press control C, there's a notification  at the bottom two of 24 clipboard two of 24 means 24 items can be copied and stored at",
+            "start": 875.9399999999999,
+            "end": 897.4200000000001
+        },
+        {
+            "chunk_id": 53,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " a temporary location.  Out of that you have just copied two items.  When I can click here control C and if you see three of 24 items copied.  So three items have been stored here as a temporary.  Now my question was if I want to paste the first copied item, what was the first copied",
+            "start": 897.4200000000001,
+            "end": 915.6600000000001
+        },
+        {
+            "chunk_id": 54,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " item?  If you remember this was the subscriber in millions which was name of the YouTube channel.  Sorry, so name of the YouTube channel.  So if I press control V, the last copied item will come.  But if I want the first copied item, I can just click over here.",
+            "start": 915.66,
+            "end": 929.3199999999999
+        },
+        {
+            "chunk_id": 55,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So from this place, if I click I'm getting this option, I can click on this second option  and I can click on this third option.  So now you understand clipboard is a box temporary box which can store 24 copied items.  Okay, temporary.  Now temporary what I mean by that if you switch off the Excel, if you switch off a laptop,",
+            "start": 929.3199999999999,
+            "end": 949.06
+        },
+        {
+            "chunk_id": 56,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " the temporary items will go away.  Okay, and this is a good option to store data.  Now this clipboard is very interesting because if you go to Word document, okay, if I open  the Microsoft Word document, a blank document, here also there's a clipboard option.  When I open this clipboard, you can see the Excel copied items are there.",
+            "start": 949.06,
+            "end": 967.66
+        },
+        {
+            "chunk_id": 57,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Okay, if I open PowerPoint, remember in a company or any place, Excel Word PowerPoint  are the most common used applications.  98% of the big giant companies uses Microsoft Excel Word and PowerPoint.  So when I open the PowerPoint, I'm still getting the same clipboard option and I can click  here.",
+            "start": 967.66,
+            "end": 988.26
+        },
+        {
+            "chunk_id": 58,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " These are the options here.  So clipboard is a common box for all the MS Office applications.  Okay, if I go to Word document, if I write as ABCD, if I copy control C, if you see on  the left hand side ABCD and the word icon would be given, let me zoom the screen.  So word icon is given.",
+            "start": 988.26,
+            "end": 1007.1800000000001
+        },
+        {
+            "chunk_id": 59,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Okay, and if I go to PowerPoint over here, okay, ABCD, EF, and if I press control C,  so left hand side, this is the PowerPoint clipboard item.  So a clipboard is a common place stored for all the MS Office applications.  I can close Don't Save, I can close Word document and I can click on Don't Save.  So now if I want to paste the PowerPoint item in Excel, I have to just click on this ABC.",
+            "start": 1007.1800000000001,
+            "end": 1035.72
+        },
+        {
+            "chunk_id": 60,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So this is a PowerPoint item.  If I want, I can click on this word item which is copied here.  So I can paste it from anywhere.  So this is a clipboard.  So clipboard is a temporary place where you can store the data.",
+            "start": 1035.72,
+            "end": 1047.12
+        },
+        {
+            "chunk_id": 61,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So these are the options.  Now I think you have understood about the cut copy paste and clipboard in Microsoft  Excel and font formatting in Microsoft Excel.  Now imagine if you have people, two persons standing in front of you and one is a very  well dressed with a blazer, with a proper comb in the hairs and everything properly",
+            "start": 1047.12,
+            "end": 1068.3000000000002
+        },
+        {
+            "chunk_id": 62,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " and second is a normal person.  Obviously the first impression a person would be attracted to a person who is well dressed,  well behaved and everything.  No matter he might be a bad person, I don't know, but it's a first impression.  So people try to get attracted to a person who's you know well-being.",
+            "start": 1068.3000000000002,
+            "end": 1082.02
+        },
+        {
+            "chunk_id": 63,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So it can be a girl, it can be boy, it can be anything or it can be any product as well.  So imagine there are two products and one is having a very good packaging and one is  having a normal packaging.  By default we focus and we try to attract the product which is having a good packaging.  So therefore companies focus more on packaging and product as well definitely, but how do",
+            "start": 1082.02,
+            "end": 1101.8
+        },
+        {
+            "chunk_id": 64,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " you market, how do you product that?  Now that is the topic same right now.  It's a formatting.  I have a data on my screen, but the data is not so good looking.  If I want to present that data in a very good format, I need to format the data.",
+            "start": 1101.8,
+            "end": 1116.56
+        },
+        {
+            "chunk_id": 65,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So if you see every text is in the same format, but I need to make it more presentable.  How do I do that?  So for that we have a topic named as font formatting.  This area if you see, this is for the entire formatting to make your data look more beautiful.  Let's do it everyone.",
+            "start": 1116.56,
+            "end": 1134.2
+        },
+        {
+            "chunk_id": 66,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So first thing, let me zoom the screen and I can show you.  We are talking about this area.  The name of the group is font group.  We have bold, italic, underlined, borders.  We have background color, font color, increasing and decreasing the size.",
+            "start": 1134.2,
+            "end": 1150.8
+        },
+        {
+            "chunk_id": 67,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Here also the size option and different fonts.  Okay.  So let's try to understand and here the first column heading.  Obviously it's a column heading.  So it should be differentiated from the below data.",
+            "start": 1150.8,
+            "end": 1164.3
+        },
+        {
+            "chunk_id": 68,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So we can select this using a big doctor symbol.  Okay.  So we can select an option here and then we can just click on bold.  When we click on bold, the thickness of the font becomes more, you know, better here.  Now this is a more thickness.",
+            "start": 1164.3,
+            "end": 1178.0600000000002
+        },
+        {
+            "chunk_id": 69,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now we can differentiate between this heading and the bottom here.  Similarly I can select this heading and I can convert into italic or I can click on  underlined.  There will be underlined below every word and it is italic format.  So this way I can apply these things.",
+            "start": 1178.0600000000002,
+            "end": 1194.3000000000002
+        },
+        {
+            "chunk_id": 70,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " The other option is if I want to give a background color, I can select this option.  This one, the bucket symbol and here I can choose some color.  Let's say this is the color.  I can select dark blue color.  Now the color you can choose depending upon the logo of the company, depending upon the",
+            "start": 1194.3,
+            "end": 1210.96
+        },
+        {
+            "chunk_id": 71,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " logo of your college or school.  Okay.  What kind of background you want because it should have a similarity for people who are  into marketing company or brand company.  They use the brand colors and the product colors.",
+            "start": 1210.96,
+            "end": 1222.12
+        },
+        {
+            "chunk_id": 72,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " And right now the font color.  Okay.  I can choose the font class white.  So you see the cell background color is blue and the font color is white.  It's not visible, but it is white here.",
+            "start": 1222.12,
+            "end": 1232.6799999999998
+        },
+        {
+            "chunk_id": 73,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " You see that's the font color here.  So this way I have applied the options.  Now at any point of time, if you think you don't want this options, what you can do is  you can press control Z control Z control Z control Z control Z control Z.  So whatever activities are done, you can reverse those activities.",
+            "start": 1232.6799999999998,
+            "end": 1251.52
+        },
+        {
+            "chunk_id": 74,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So control Z is a shortcut to reverse the activities.  If you want it back control Y control Y Y Y and Y control Y is to bring back those activities.  You see the other method.  If you forget the shortcut, okay, if you're a school student or a college student, it  might be a question in your exam.",
+            "start": 1251.52,
+            "end": 1268.76
+        },
+        {
+            "chunk_id": 75,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " But if you're a professional working, you don't have to remember the shortcuts, right?  Why to remember shortcuts?  So you can press control Z Z this one you see undo button and the activities are reverse  and there's a redo button to bring back those activities.  So these are the options.",
+            "start": 1268.76,
+            "end": 1282.32
+        },
+        {
+            "chunk_id": 76,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now the heading size and the other font size is same.  So I want this heading to have a better size.  So I've selected the heading and if you see this is the option of increasing the font  size carefully observe the header font size is increased and this when I click on this  button it is 20 I can click on this small a button to reduce the size okay to make it",
+            "start": 1282.32,
+            "end": 1306.0
+        },
+        {
+            "chunk_id": 77,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " look better.  So I told you if you're a teacher or you know professor in some college and there  are 100 students they cannot see the last student cannot see the data properly.  Okay so you need to increase the font size you need to increase the screen size and all  those options.",
+            "start": 1306.0,
+            "end": 1319.92
+        },
+        {
+            "chunk_id": 78,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now I can minimize this option over here.  Okay this one or if you think you are confident about what font size do you want you can pick  up this font size you see 14 16 and so on like this.  That's one option.  Now here when I select the data I think I can change the font size by default usually",
+            "start": 1319.92,
+            "end": 1338.44
+        },
+        {
+            "chunk_id": 79,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " font size is aerial or calibrate you find this font size.  However you have a freedom to choose the font size if you read the newspapers right carefully  observe the font size are very you know professional in a very good manner.  If you read the magazines the font size would be different if you read some marketing article  or LinkedIn post or somewhere the font size or the font would be different here.",
+            "start": 1338.44,
+            "end": 1359.94
+        },
+        {
+            "chunk_id": 80,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So here we can just move our cursor and you see at the bottom the font size is changing.  Let me just move it and if you see the font size is changing make sure the font size is  simple easy and properly visible for the end user.  Okay who is watching you have to keep it very simple and easy here.  So there are plenty of font size which you can choose.",
+            "start": 1359.94,
+            "end": 1380.78
+        },
+        {
+            "chunk_id": 81,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Okay plenty of font size.  So you see this is something cavalini to make it little more fancy over there.  So usually if you see in the marketing company or if you see some watch some movies or YouTube  channels and all they use this kind of font size.  So plenty of font size plenty of different fonts would be available.",
+            "start": 1380.78,
+            "end": 1397.5
+        },
+        {
+            "chunk_id": 82,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " These are the fonts and these are the size option here.  Similarly now I think after doing all this activity this was a font group I think I need  to give a border to this data.  So I can press control A the whole data is selected.  What do I mean by border if you carefully observe here in the font option here if I",
+            "start": 1397.5,
+            "end": 1416.02
+        },
+        {
+            "chunk_id": 83,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " click on this drop down I can give a border at the bottom I can give a border at the top  left border right border but I want all the borders when I click on all the borders if  you carefully observe these are some thickness which is giving a proper highlight.  Okay so here a border is applied to this data.  Okay so this way if you observe the previous data and now this data if you if you scroll",
+            "start": 1416.06,
+            "end": 1439.18
+        },
+        {
+            "chunk_id": 84,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " back you'll understand that that was a basic formatting nothing was there.  Now this makes my data more easy more presentable more attractable for the end user here at  the back end if you see there are some lines over here these are known as grid lines.  I can go to view menu bar and I can tell them no grid lines.  This is a checkbox when I select no grid line you see it's completely blank.",
+            "start": 1439.18,
+            "end": 1462.62
+        },
+        {
+            "chunk_id": 85,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Now I have a more laser sharp focus on the data you see I have more focus now these are  not disturbing me.  Okay I can focus on the data and series option.  Also if you think there is one channel let's say a Kari Minati okay or let's say Ashish  Chanchalani if you want to highlight that record if you want to bring attention to this",
+            "start": 1462.62,
+            "end": 1482.18
+        },
+        {
+            "chunk_id": 86,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " person you can just go to home menu bar first you selected the data home menu bar and then  you selected the color from here.  So using this option now from the whole data my attention is grabbed by this person you  see Ashish Chanchalani or if I select this option Mr. Beast I can select this data and  I can attract.",
+            "start": 1482.18,
+            "end": 1500.9
+        },
+        {
+            "chunk_id": 87,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " So this way I am trying to bring the attention of people and initially first one was okay  data but now this is much better here not only this I can select this particular cell  and I can just highlight okay I can select this particular cell I can highlight.  So this way a font group font group in the home tab is important to give more attention  to your data for for timing I think you have understood about the font formatting in Microsoft",
+            "start": 1500.9,
+            "end": 1527.14
+        },
+        {
+            "chunk_id": 88,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " and alignment in Microsoft Excel alignment of text alignment of dates and numbers are  very important we will see how to align the data properly to make it more presentable  and make it more beautiful let's try to understand.  So here where is the alignment option in the home tab we have a group named as alignment  this is known as the group option there are various options we will try to cover one by",
+            "start": 1527.6200000000001,
+            "end": 1549.46
+        },
+        {
+            "chunk_id": 89,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " one let's see we have a F column and I am having the cursor in cell number F over here  which is F2 I will just increase the height of this column how do I increase the height  here on the left hand side carefully observe my cursor is between row number 2 and row  number 3 okay when you have this kind of icon you can click and increase the height that's  one option so that is easy method to do that if I want to increase the width this becomes",
+            "start": 1549.46,
+            "end": 1576.1799999999998
+        },
+        {
+            "chunk_id": 90,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " a width this becomes the height so if I want to increase the width of this F column I can  click between F and G column you see whenever I keep my cursor on the heading this becomes  arrow asking me to select but if I want to increase the width I can keep my cursor between  F column and G column and I can increase or decrease okay this way I can increase or decrease  have a look again I can click increase here same way I can keep my cursor between row",
+            "start": 1576.1799999999998,
+            "end": 1605.5400000000002
+        },
+        {
+            "chunk_id": 91,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " number 2 and row number 3 increase the place now here I will insert some data let's say  as MS Excel so carefully observe when I have the data MS Excel what is the position of  this particular text it's in the bottom left hand side it's in the vertically bottom and  horizontally left hand side now here are the options carefully observe these are the 6  options which I will be talking about so when I select this option the first one it will",
+            "start": 1605.5400000000002,
+            "end": 1634.66
+        },
+        {
+            "chunk_id": 92,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " bring the data in the top alignment if I click on this second option is middle alignment  and third option is bottom alignment so vertically top middle and bottom top middle and bottom  these are three alignments over here okay so top alignment middle alignment and bottom  alignment now here the bottom three options if you see this one is the left the center  this is the second one which is center and third one becomes as the right so horizontally",
+            "start": 1634.66,
+            "end": 1663.06
+        },
+        {
+            "chunk_id": 93,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " again there are three options the left center and the right option here so here left center  so I'm deciding the position of a text in that particular cell so here I can select  horizontal alignment or the vertical alignment right now for our data if I want to bring the  data I can click on the vertical center and horizontal center so you see this data looks  more better it is in the center attracting people over here okay so that's one thing I can also",
+            "start": 1663.06,
+            "end": 1692.42
+        },
+        {
+            "chunk_id": 94,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " increase the size to make it look better okay so that's the alignment part now here when I select  this text if I want to change the direction okay the next part would be changing the direction  here these are some options which is angle counterclockwise angle clockwise vertical and  horizontal we want I want you to see this option over here which is the direction which is the  direction at the bottom and so on so if I select the first option you see the text is in this",
+            "start": 1692.42,
+            "end": 1719.5
+        },
+        {
+            "chunk_id": 95,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " alignment it's going upwards if I select the other option it is going angle clockwise it's  going downwards over there and the third option is if I say vertical text and if I try to increase  the height to make it look again if I can increase the height so you see what is happening here right  so MSX is Excel is going as vertically word by word or alphabet by alphabet it's going vertically  downwards here so I can select the option rotate up you see and I can select the option rotate down",
+            "start": 1719.5,
+            "end": 1749.46
+        },
+        {
+            "chunk_id": 96,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " so what direction do you want of the data you can decide from here so let's try to see this  option I can delete the text and I'll give you one real-time scenario I can select on the left  hand side so this is the text on the top this is the data now when I present the data a person has  to go through all the columns to understand what is the data but if I give a proper title to this  data it's easy for anyone to understand what I'm trying to show I am trying to show all the",
+            "start": 1749.46,
+            "end": 1779.1000000000001
+        },
+        {
+            "chunk_id": 97,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " famous youtubers across the world okay so here in the first row I click on the number one first  row right click on the row heading these are the row headings if you see the row headings is 1 2  3 4 5 6 7 these are the column headings a b c d and so on so if I right click on the first row heading  and if I click on insert so when I click on insert a blank row is inserted you see a blank row is  inserted if I right click on row number 10 right click insert a row would be added before row",
+            "start": 1779.82,
+            "end": 1813.46
+        },
+        {
+            "chunk_id": 98,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " number 10 if you see this is row number 10 here if I right click on column C and if I click on  insert a column would be inserted in the C place here so I can press control Z control Z to delete  this option now here what I want is I want this particular cell or the heading should be a famous  youtubers across the world or famous youtubers I will write as famous youtubers enter so when I  enter the text over here carefully observe it just on the top left it should be in the center",
+            "start": 1813.46,
+            "end": 1847.74
+        },
+        {
+            "chunk_id": 99,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " right it should be here in the center and it should be bold and everything italic and all now  what I need to do is I have to combine all the cells over here so if you want to combine all the  cells on the top here we have an option first you select the data and then select this option  merge and center merge and center will bring the data in the center over here okay if you see it's  in the center all the cells are merged together here obviously I'll increase the size to make it",
+            "start": 1847.74,
+            "end": 1875.6200000000001
+        },
+        {
+            "chunk_id": 100,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " look better and here by default the alignment if you see merge and center so it is in the center  now okay it has clubbed all the cells and the text is in the center here now I can select this I can  give a background color I can give a font color and this becomes a heading so a person who's  watching this data can understand very quickly within seconds what is this data all about so  this data is about the famous youtubers okay I can put in 2024 2025 or any year so it is easy",
+            "start": 1875.6200000000001,
+            "end": 1907.4399999999998
+        },
+        {
+            "chunk_id": 101,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " to understand so these are famous youtubers which is given the data now so this was the option if  you think you can change the indent okay this is the option here I can change the indent of  the text you see I can just move the data in little spaces so this one is the increase indent  and decrease indent you see these two options to increase indent and decrease indent right this  is the option here now again coming on the right hand side what is this wrap text option we will",
+            "start": 1907.4399999999998,
+            "end": 1939.8000000000002
+        },
+        {
+            "chunk_id": 102,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " be talking about this wrap text option suppose I have this data here now I'll just type something  today is a beautiful day okay I'll write as beautiful day in Pune India when I'm recording  it's raining outside raining today it's raining today it's raining outside I want off for school  college and office enter so now when I enter the text over here what is happening this data it's  going outside that particular cell it's growing on the right hand side okay so what I want here",
+            "start": 1939.8,
+            "end": 1980.4
+        },
+        {
+            "chunk_id": 103,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " is I want the cell should accommodate that data it should not go outside that cell so if I select  that cell and if I click on wrap text the width of the column the width of the column will remain  same but the height of the row will increase okay carefully observe the width would be same  but the height will increase so when I click on wrap text I've selected the cell when I click on  wrap text the width remained the same and the height of the cell has increased and this will",
+            "start": 1980.4,
+            "end": 2010.6000000000001
+        },
+        {
+            "chunk_id": 104,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " make easy for a person to read now imagine if I have many many cells like this kind of data so  it will automatically adjust this data control Z I can press I can select the cells and press  D what is control D it will fill the data down it will copy the data and fill it down now when  the cells are selected if I click on wrap text so you see the width of the column is same and the  height of the rows have increased so this has given the data in a proper format controls it so",
+            "start": 2010.6000000000001,
+            "end": 2042.2
+        },
+        {
+            "chunk_id": 105,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " this was about the rap text now carefully observe these are the options we have understood about  the alignment vertical alignment horizontal alignment wrap text merge and center and also  we have seen about the text direction wherever you want to apply the text direction so that's  it I hope you have understood about the alignment in excel and number formatting in Microsoft Excel  number formatting is very important and where exactly it is located in the home menu bar we",
+            "start": 2042.2,
+            "end": 2068.76
+        },
+        {
+            "chunk_id": 106,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " can see this is the number group so all the number formatting would be given in this location so if  it is a date if it's a text or if it's a number everything you will be able to see on this location  so let's try to understand with a very simple example I'll type here a number let's say as  numbers or let's say currency or let's say amount I've added an amount and I'll put here let's say  10 enter 20 okay just random numbers 10 and 20 so if I select this 10 over here and if I want some",
+            "start": 2068.76,
+            "end": 2101.2799999999997
+        },
+        {
+            "chunk_id": 107,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " numbers at the bottom I can keep my cursor on the small doctor symbol and if I drag it's on the 10  if I drag I'll be getting 10 everywhere okay 10 everywhere I'll press control Z I don't want 10  I want 10 20 30 40 50 and so on so if you want that data the steps are select both the cells  using a big doctor symbol and keep your cursor on the fill handle button or a small doctor symbol  and then drag so this way I'm getting numbers 10 20 30 40 and 50 one more time we'll enter here",
+            "start": 2101.28,
+            "end": 2134.16
+        },
+        {
+            "chunk_id": 108,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " 2 5 and let's say after 2 5 comes as 8 so if you see the interval between them is 3 after 2 plus  3 5 5 plus 3 8 I have selected this data using big doctor symbol then small doctor symbol I can  drag and fill so the interval between them is 3 okay so that's a fill and handle option here I  can go in a reverse order I can put here let's say a 10 then 5 and maybe 0 so if I select this  3 data small doctor symbol it will go negative 5 it will keep on you know adding minus 5 okay",
+            "start": 2134.16,
+            "end": 2169.64
+        },
+        {
+            "chunk_id": 109,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " that's it so let's come back to the topic we have the formatting okay let's say this is the amount  here and I am working in the United States America and I want this to have a dollar sign in United  States there's a dollar sign today the one dollar is equal to 83 Indian rupees approximately if I  want this currency as a dollar sign I can click on this button here so when I click on this button  on the top the dollar sign is given and any person in the world can understand it's a dollar okay now",
+            "start": 2169.64,
+            "end": 2198.88
+        },
+        {
+            "chunk_id": 110,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " again there's a challenge whether it's a Singapore dollar or it's a US dollar which country dollar  is it so it's not written it's just a dollar sign right now so the other option is here in  the drop-down if I am working in India okay and here India I can select this rupee which is English  India so it gives me a feel of localization it's a Indian rupees so this is a currency symbol used  in India okay currency symbol so here I can click no matter which country you are from you get a",
+            "start": 2198.88,
+            "end": 2229.26
+        },
+        {
+            "chunk_id": 111,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " currency symbol over here if you see that's a Chinese option I can select Chinese option I can  click here and there's a euro option which is available and so on now obviously these are only  but there are so many countries so many currency symbols not everything will come here if you want  more currency symbols click on more accounting formatting and here from this drop-down you pick  up the country and you'll get the different symbols over here many many countries many",
+            "start": 2229.26,
+            "end": 2255.9
+        },
+        {
+            "chunk_id": 112,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " currencies are there and you can get it so that's one option now before the currency came in the  world we were having a barter exchange you give me rice I'll give you water you give me something  but now the currencies are there so I can just click on cancer so that's one option selecting  currency now we'll keep it let's say Indian rupees over here now if you see there are some  decimals after 80 there's a 80.00 if you don't want decimals you can click on this button you",
+            "start": 2255.9,
+            "end": 2284.0600000000004
+        },
+        {
+            "chunk_id": 113,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " can keep on decreasing the decimals if you want you can increase the decimals from here you see  decimal signs from here so that is one now suppose you don't want that as a currency okay you can  click on the percentage symbol over here so this will give you the option which is the percentage  10 percent 20 percent now companies work on the percentage format schools and colleges give the  percentage as a you know out of hundred now there are gradings as 1.2 point in order to make it more",
+            "start": 2284.0600000000004,
+            "end": 2312.6600000000003
+        },
+        {
+            "chunk_id": 114,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " motivated they give us ABCD but still the company's profit is measured in the percentage hundred  percent increase 20 percent increase HR department use the percentage attrition rate is 10 percent 5  percent sales people use the percentage as a growth 20 percent increment 30 percent growth and  so on the other option this was the numbers so what we have learned right now is the currency  format the percentage format and increase or decrease the Indian format let's see what are",
+            "start": 2312.6600000000003,
+            "end": 2341.94
+        },
+        {
+            "chunk_id": 115,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " the other options now if I want a date I'll type on the top as date and if I want today's date I  can press control semicolon what is that control semicolon right let me write down here the control  semicolon this is the shortcut from your keyboard you can press control semicolon control semicolon  is a shortcut to get the today's date okay from a keyboard today's date so I'll press control  semicolon from my keyboard like this and I'm getting today's date the day when I'm recording",
+            "start": 2341.94,
+            "end": 2371.34
+        },
+        {
+            "chunk_id": 116,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " is 28 of August 2024 okay and the day when you're watching it's many many years many days after that  so I'm getting the date format and I can just click on the small doctor symbol bring it down  I'm getting the dates in an incremental fashion 28 29 30 31 and so on so it's in the one by one  increment notice carefully this date is a DD hyphen mm hyphen yy what is DD DD stands for date  mm stands for month yy stands for year now this date format is similar to my laptop date and time",
+            "start": 2371.34,
+            "end": 2402.8999999999996
+        },
+        {
+            "chunk_id": 117,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " format it's not the same but in a similar format over here now obviously if I scroll down now  there's a person who will watch this data and will be confused what is 0909 okay or let's say 0808 if  you are a new person watching now it's difficult to explain what is 08 whether it's a month or  it's a day okay so in order to avoid the confusion what we can do is we can select this data over  here and here in this drop down carefully observe we have short date and long date option short date",
+            "start": 2402.9,
+            "end": 2433.34
+        },
+        {
+            "chunk_id": 118,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " and long date so when I click on short date it's already short date option if I select the long  date it's a beautiful method of explaining the data now here it says as 5 September 2024 okay 5  September so I can understand which is 5 early it was 0808 so we could not understand 08 so 8  September 2024 along with that it is also telling me whether it's a Saturday or Sunday or Monday  okay whether I should give a holiday or not okay so 15th August is a you know Independence Day in",
+            "start": 2433.34,
+            "end": 2464.02
+        },
+        {
+            "chunk_id": 119,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " India where we celebrate whether it falls on Sunday or it's falls on the working day for working  professionals for students it's important you understand from that so different holidays we  get a clear idea so this way we can plan our holidays as well so now this was a formatting  here now if you think you need to change the formatting you can click on this drop down okay  these are two date formats option if you think you will need to change something you can click",
+            "start": 2464.02,
+            "end": 2486.46
+        },
+        {
+            "chunk_id": 120,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " on more number formats and here on the left hand side date option so these are plenty of different  date options now different countries use different date formats in some countries they use DD hyphen  mm hyphen yy in some countries they use DD dot mm dot yy in some countries they use mm dot  DD dot yy okay and some countries use DD slash mm slash yy okay different date formats are there  so you need to understand which country you're working what is useful okay if there are 100",
+            "start": 2486.46,
+            "end": 2521.2599999999998
+        },
+        {
+            "chunk_id": 121,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " countries people working together then there's a lot of chaos then there's a advanced excel which  we learn and how to bring it together date formats so this way you can choose the options  from this location carefully observe by default it is for English United States if I click here  from this location and if I select go back to this option more number formats instead of United  States if I want to select I can select the country let's say if I select some country let's say",
+            "start": 2521.2599999999998,
+            "end": 2549.38
+        },
+        {
+            "chunk_id": 122,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " Malaysia what Malaysia form follows these are the formats if I click on this drop down and if I  search for Singapore Singapore follows this kind of formats if I go for United Kingdom they follow  this format can you see this one dot 14 hyphen 14 dot and 2020 so different countries have different  formats I'll just click on cancel so you can choose the format let's say I'll choose this one click  on okay so format can be changed from here now this was about the things on this location now let's",
+            "start": 2549.38,
+            "end": 2577.92
+        },
+        {
+            "chunk_id": 123,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " see some more examples if I have 25.25 65.36 some numbers over here okay let me just bring it here  90 right now this data I have selected perfect now numbers now suppose if I select this data  and I don't want the decimals so I can select the option let's say for example right now the  number so numbers if you see everywhere these are two decimals now it's up to me if I want the  decimals I can decrease the decimals if I want the decimals I can increase the decimals from here",
+            "start": 2577.92,
+            "end": 2615.92
+        },
+        {
+            "chunk_id": 124,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " you can see this options which is number we have seen about the currency and accounting they are  almost similar here okay I can select the currency option I can select the accounting options okay and  the date and time so different options are there this below options fraction scientific is very  rarely used not most of the companies use it so fraction and scientific very rarely use however  date and time these options are mostly used so you can explore those options also by yourself",
+            "start": 2615.92,
+            "end": 2644.0
+        },
+        {
+            "chunk_id": 125,
+            "name": "Section 2 Step-by-Step Guide to Data Entry & Formatting Excel Tutorial ",
+            "text": " okay so this was all about the number formatting in Microsoft Excel I think you have understood  and that's all for this video",
+            "start": 2644.0,
+            "end": 2650.56
+        }
+    ]
+}

@@ -1,0 +1,527 @@
+{
+    "chunks": [
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 0.0,
+            "end": 6.36,
+            "text": " From Setul until after Bukhanidskaya"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 30.0,
+            "end": 49.28,
+            "text": " Welcome back."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 49.28,
+            "end": 53.64,
+            "text": " Now we'll be learning about how to create a custom tab in Microsoft Excel."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 53.64,
+            "end": 55.8,
+            "text": " Now what are tabs we have seen earlier?"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 55.8,
+            "end": 59.2,
+            "text": " If you see we have a home tab, insert tab, page layout tab."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 59.2,
+            "end": 64.44,
+            "text": " These are the tabs people call as menu bars as well, but you can create a custom tab by"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 64.44,
+            "end": 65.44,
+            "text": " your own name."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 65.44,
+            "end": 68.62,
+            "text": " For example, I have created a custom tab by my name."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 68.62,
+            "end": 70.2,
+            "text": " If you see that's a power in Lalvani."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 70.2,
+            "end": 74.76,
+            "text": " If I click on this location now a separate menu bar, I have created."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 74.76,
+            "end": 76.80000000000001,
+            "text": " Why do I need that menu bars?"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 76.80000000000001,
+            "end": 80.78,
+            "text": " Because in Excel there are many applications 300 plus options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 80.78,
+            "end": 83.28,
+            "text": " It's very difficult to go to that tab."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 83.28,
+            "end": 88.28,
+            "text": " It's very difficult to remember what option you want so I can create my you know personal"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 88.36,
+            "end": 92.4,
+            "text": " tab with some similar or familiar options which I use regularly."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 92.4,
+            "end": 97.92,
+            "text": " For example, in this tab, if you see I have this font color font size format cells when"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 97.92,
+            "end": 101.58,
+            "text": " I come to office when I work in Excel, I use the three options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 101.58,
+            "end": 106.48,
+            "text": " So I've created my own custom tab and I don't have to worry where exactly are the options"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 106.48,
+            "end": 107.48,
+            "text": " here."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 107.48,
+            "end": 110.8,
+            "text": " So let us learn about how do we create a custom tab by your name."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 110.8,
+            "end": 112.24000000000001,
+            "text": " Okay, let's do that."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 112.24000000000001,
+            "end": 116.08,
+            "text": " So first thing we have to go to the file option over here."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 116.08,
+            "end": 118.76,
+            "text": " Now file menu bar consists of different options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 118.76,
+            "end": 121.46,
+            "text": " If you see I can create a new workbook over here."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 121.46,
+            "end": 126.4,
+            "text": " I can pick up some existing workbooks some options here, but in order to create a new"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 126.4,
+            "end": 130.04,
+            "text": " tab here at the bottom, there's an option given as options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 130.04,
+            "end": 133.34,
+            "text": " If your screen size is small, you may not see the options here."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 133.34,
+            "end": 135.84,
+            "text": " So you need to click on maybe more button."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 135.84,
+            "end": 138.48,
+            "text": " But right now we will just click on options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 138.48,
+            "end": 141.12,
+            "text": " Now this is the Excel options window."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 141.12,
+            "end": 144.92,
+            "text": " This is a huge library settings which we do at the back end."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 144.92,
+            "end": 150.07999999999998,
+            "text": " Now in order to create a custom tab here, if you see that's a customized ribbon option."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 150.07999999999998,
+            "end": 153.76,
+            "text": " Now what is a ribbon option on the top you remember this was the ribbon option in the"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 153.76,
+            "end": 155.32,
+            "text": " previous example."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 155.32,
+            "end": 159.72,
+            "text": " Now here in the customized ribbon, if you see on the right hand side at the bottom,"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 159.72,
+            "end": 161.76,
+            "text": " this is a new tab option."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 161.76,
+            "end": 167.35999999999999,
+            "text": " Now if I minimize this option, if you see home tab, insert tab page layout tab, there"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 167.35999999999999,
+            "end": 169.61999999999998,
+            "text": " are plenty of different tabs."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 169.61999999999998,
+            "end": 172.83999999999997,
+            "text": " And here at the bottom, I've created a tab by my own name."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 172.83999999999997,
+            "end": 174.76,
+            "text": " Let me zoom the screen for you."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 174.76,
+            "end": 179.28,
+            "text": " So if I want to create a new tab, I can just click on this new tab option."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 179.28,
+            "end": 185.1,
+            "text": " When I do that, and if I just move my cursor, let me click on new tab."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 185.1,
+            "end": 189.04,
+            "text": " When I click on this new tab, I got these two options new tab new group."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 189.04,
+            "end": 191.28,
+            "text": " Now what is a tab and what is a group?"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 191.28,
+            "end": 193.35999999999999,
+            "text": " Let me explain."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 193.35999999999999,
+            "end": 197.14,
+            "text": " If you observe here home tab, this is the font group."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 197.14,
+            "end": 198.76,
+            "text": " This is the alignment group."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 198.76,
+            "end": 201.44,
+            "text": " This is the number group and style group."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 201.48,
+            "end": 205.0,
+            "text": " So one tab consists of different groups."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 205.0,
+            "end": 209.48,
+            "text": " Now I'll create one tab and I'll create three groups in that, you know, tab here."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 209.48,
+            "end": 211.6,
+            "text": " Let me just go here."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 211.6,
+            "end": 213.76,
+            "text": " I'll zoom the screen for you."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 213.76,
+            "end": 217.02,
+            "text": " And here new tab so I can just click on rename."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 217.02,
+            "end": 218.48,
+            "text": " What name should I give?"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 218.48,
+            "end": 222.68,
+            "text": " Suppose I give us Elon Musk."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 222.68,
+            "end": 226.57999999999998,
+            "text": " I've given the name of the tab Elon Musk and I can just click on OK button."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 226.57999999999998,
+            "end": 230.8,
+            "text": " So if you observe the name of this particular tab is Elon Musk."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 230.8,
+            "end": 235.16000000000003,
+            "text": " But in that tab, there are multiple groups so I can just click on this new group."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 235.16000000000003,
+            "end": 244.16000000000003,
+            "text": " I can click on this rename and I can select some icon maybe and I can write here as."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 244.16000000000003,
+            "end": 247.0,
+            "text": " OK, Tesla."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 247.0,
+            "end": 248.24,
+            "text": " Then I can click on OK."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 248.24,
+            "end": 252.44,
+            "text": " So if you see Elon Musk as the tab Tesla as a group again, I'll create two more groups"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 252.44,
+            "end": 253.44,
+            "text": " over here."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 253.44,
+            "end": 256.1,
+            "text": " I can click on new group new group again."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 256.1,
+            "end": 258.18,
+            "text": " How do I rename select that group name?"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 258.18,
+            "end": 264.0,
+            "text": " Click on rename and here I can type as group to."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 264.0,
+            "end": 265.0,
+            "text": " Click on OK again."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 265.0,
+            "end": 270.22,
+            "text": " I can select this rename and I can let's say robots."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 270.22,
+            "end": 271.22,
+            "text": " And click on OK."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 271.22,
+            "end": 276.22,
+            "text": " So now when I click on OK button carefully observe a new tab is given on the right hand"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 276.22,
+            "end": 281.62,
+            "text": " side if you see Elon Musk when I go here now this Elon Musk the tabs are there if you see"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 281.62,
+            "end": 286.62,
+            "text": " the name but the groups are not visible why they are not visible because in that group"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 286.64,
+            "end": 288.4,
+            "text": " I need to add some options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 288.4,
+            "end": 290.88,
+            "text": " So my job is to go back at some options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 290.88,
+            "end": 295.8,
+            "text": " What are the options bold italic underline whatever options I want so I can go back to"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 295.8,
+            "end": 303.56,
+            "text": " file options customize ribbon option here and in this first group let me zoom the screen"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 303.56,
+            "end": 308.32,
+            "text": " in the first group Tesla I can select fill color click on add option here you see I can"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 308.32,
+            "end": 316.4,
+            "text": " click on add so I can add more options select the group to and I can add some more options."
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 316.41999999999996,
+            "end": 321.34,
+            "text": " Let me scroll down select robots option here I have selected robots option and I can just"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 321.34,
+            "end": 330.28,
+            "text": " click on add now when I click on OK so you see and let me zoom the screen now the name"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 330.28,
+            "end": 335.53999999999996,
+            "text": " of the tab is Elon Musk Tesla few options are there then I have group to few options"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 335.53999999999996,
+            "end": 339.91999999999996,
+            "text": " are there robots few options are there why do I need this custom tab as I told you in"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 339.91999999999996,
+            "end": 344.65999999999997,
+            "text": " a company when you're working or any project right now you do not have to get confused"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 344.68,
+            "end": 349.36,
+            "text": " where are the options in order to do that you can customize your tab by your name and"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 349.36,
+            "end": 354.28000000000003,
+            "text": " you can select the options which you use frequently so this makes a work more faster much better"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 354.28000000000003,
+            "end": 359.08000000000004,
+            "text": " and easier so this was the option of creating a new tab and new groups in Excel I hope you"
+        },
+        {
+            "name": "1.2 How to Create a Custom Tab in Excel A User\u2019s Guide ",
+            "start": 359.08000000000004,
+            "end": 360.72,
+            "text": " have understood that's all for this video."
+        }
+    ],
+    "text": " From Setul until after Bukhanidskaya Welcome back. Now we'll be learning about how to create a custom tab in Microsoft Excel. Now what are tabs we have seen earlier? If you see we have a home tab, insert tab, page layout tab. These are the tabs people call as menu bars as well, but you can create a custom tab by your own name. For example, I have created a custom tab by my name. If you see that's a power in Lalvani. If I click on this location now a separate menu bar, I have created. Why do I need that menu bars? Because in Excel there are many applications 300 plus options. It's very difficult to go to that tab. It's very difficult to remember what option you want so I can create my you know personal tab with some similar or familiar options which I use regularly. For example, in this tab, if you see I have this font color font size format cells when I come to office when I work in Excel, I use the three options. So I've created my own custom tab and I don't have to worry where exactly are the options here. So let us learn about how do we create a custom tab by your name. Okay, let's do that. So first thing we have to go to the file option over here. Now file menu bar consists of different options. If you see I can create a new workbook over here. I can pick up some existing workbooks some options here, but in order to create a new tab here at the bottom, there's an option given as options. If your screen size is small, you may not see the options here. So you need to click on maybe more button. But right now we will just click on options. Now this is the Excel options window. This is a huge library settings which we do at the back end. Now in order to create a custom tab here, if you see that's a customized ribbon option. Now what is a ribbon option on the top you remember this was the ribbon option in the previous example. Now here in the customized ribbon, if you see on the right hand side at the bottom, this is a new tab option. Now if I minimize this option, if you see home tab, insert tab page layout tab, there are plenty of different tabs. And here at the bottom, I've created a tab by my own name. Let me zoom the screen for you. So if I want to create a new tab, I can just click on this new tab option. When I do that, and if I just move my cursor, let me click on new tab. When I click on this new tab, I got these two options new tab new group. Now what is a tab and what is a group? Let me explain. If you observe here home tab, this is the font group. This is the alignment group. This is the number group and style group. So one tab consists of different groups. Now I'll create one tab and I'll create three groups in that, you know, tab here. Let me just go here. I'll zoom the screen for you. And here new tab so I can just click on rename. What name should I give? Suppose I give us Elon Musk. I've given the name of the tab Elon Musk and I can just click on OK button. So if you observe the name of this particular tab is Elon Musk. But in that tab, there are multiple groups so I can just click on this new group. I can click on this rename and I can select some icon maybe and I can write here as. OK, Tesla. Then I can click on OK. So if you see Elon Musk as the tab Tesla as a group again, I'll create two more groups over here. I can click on new group new group again. How do I rename select that group name? Click on rename and here I can type as group to. Click on OK again. I can select this rename and I can let's say robots. And click on OK. So now when I click on OK button carefully observe a new tab is given on the right hand side if you see Elon Musk when I go here now this Elon Musk the tabs are there if you see the name but the groups are not visible why they are not visible because in that group I need to add some options. So my job is to go back at some options. What are the options bold italic underline whatever options I want so I can go back to file options customize ribbon option here and in this first group let me zoom the screen in the first group Tesla I can select fill color click on add option here you see I can click on add so I can add more options select the group to and I can add some more options. Let me scroll down select robots option here I have selected robots option and I can just click on add now when I click on OK so you see and let me zoom the screen now the name of the tab is Elon Musk Tesla few options are there then I have group to few options are there robots few options are there why do I need this custom tab as I told you in a company when you're working or any project right now you do not have to get confused where are the options in order to do that you can customize your tab by your name and you can select the options which you use frequently so this makes a work more faster much better and easier so this was the option of creating a new tab and new groups in Excel I hope you have understood that's all for this video."
+}

@@ -43,5 +43,6 @@ with open('prompt.txt', 'w') as f:
     f.write(prompt)
 
 response = inference(prompt)
+print( response)
 with open('response.txt', 'w') as f:
     f.write(response)

@@ -6,7 +6,7 @@ audios = os.listdir('audios')
 for audio in audios:
     name = audio.split('- Pavan Lalwani')[0]
     print(f"Transcribing {name}")
-    # result = model.transcribe(f"audios/1.0 Excel 2025 Complete Course From Beginner to Advanced Full Microsoft Excel Tutorial - Pavan Lalwani (720p, h264).mp4.mp3")
+ 
     result = model.transcribe(f"audios/{audio}")
     # print(result)
     chunks = []
